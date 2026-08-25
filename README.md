@@ -2,7 +2,7 @@
 Recomendador de series programado en python
 
 
-# ITEGRANTES:
+# INTEGRANTES:
 Antonela Bruno,
 Camila Torres,
 Daiana Calderón,
