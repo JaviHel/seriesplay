@@ -6,4 +6,4 @@ Recomendador de series programado en python
 Antonela Bruno,
 Camila Torres,
 Daiana Calderón,
-Javier Helguera,
+Javier Helguera.
