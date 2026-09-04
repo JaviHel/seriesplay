@@ -1,0 +1,27 @@
+1) Tenemos que tener bien en claro la razón por la que elegimos el universo de películas.
+2) Podríamos agregar al dataset la base de datos de Rotten Tomatoes (que es una base de datos real)?
+3) NO tenemos que usar en el código IF/ELSE (acciones forzadas) y SI árboles, heaps, grafos.
+4) Gamificación: Usando Rich se pueden agregar emoticones que podemos usar para jugar a adivinar la película y de ahí darle insignias dependiendo de la cantidad de aciertos que tengan.
+5) TEMAS A TENER MUY EN CLARO POR SI PREGUNTA A LA HORA DE PRESENTAR EL PROYECTO:
+- POO
+- Por qué se elige cada estructura en cada situación.
+- Árboles binarios y generales, AVL, heaps, grafos.
+- BFS, DFS y caminos mínimos.
+- Analizar y comparar la complejidad temporal de distintas soluciones.
+- Justificar técnicamente cada decisión de diseño.
+6) Agregar al repositorio otro documento con:
+- Nombre del proyecto.
+- Dominio elegido y porqué se eligió.
+- Problema que resuelve.
+- Usuario objetivo (persona en concreto, no en general).
+- Cinco funcionalidades iniciales en el menú.
+- Ejemplo de interacción.
+- Primer boceto de la interfaz de terminal.
+7) Preguntar qué se refiere con “diagrama inicial de clases o componentes”. Usar IA si es necesario para sacarse la duda y ver qué herramientas hacen falta para llevarlo a cabo.
+8) Buscar recomendaciones de cómo y cuándo usar branches (ramas) en el repositorio.
+9) Organizar las tareas en Trello dividiéndolas en cada integrante y poner tiempo límite de realización.
+10) Crear TODAS las carpetas en el repositorio y consultar sobre:
+- Requerimientos.md: Funcionales (lo que hace el SISTEMA), No funcionales (cómo debe comportarse el SISTEMA) y el alcance y fuera de alcance (o sea qué cosas no va a hacer).
+11) En un diagrama mostrar al actor y lo que puede hacer (Clase de usos).
+12) Tengo que hacer una muestra de cómo se vería en Rich para terminar de definir colores y estilo que va a tener la consola, además de definir en qué puntos usaríamos tablas.
+13) Pensar logo, definir diseño y colores (esto va a estar basado en el tipo de usuario al que apuntamos).
