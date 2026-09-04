@@ -24,4 +24,3 @@
 - Requerimientos.md: Funcionales (lo que hace el SISTEMA), No funcionales (cómo debe comportarse el SISTEMA) y el alcance y fuera de alcance (o sea qué cosas no va a hacer).
 11) En un diagrama mostrar al actor y lo que puede hacer (Clase de usos).
 12) Tengo que hacer una muestra de cómo se vería en Rich para terminar de definir colores y estilo que va a tener la consola, además de definir en qué puntos usaríamos tablas.
-13) Pensar logo, definir diseño y colores (esto va a estar basado en el tipo de usuario al que apuntamos).
