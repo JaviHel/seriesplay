@@ -1,0 +1,9004 @@
+{
+  "series": [
+    {
+      "title": "Stranger Things",
+      "genre": "Historical",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 42,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Breaking Bad",
+      "genre": "Family",
+      "duration": 55,
+      "seasons": 3,
+      "chapters": 30,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Game of Thrones",
+      "genre": "Historical",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 187,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "The Office",
+      "genre": "Reality",
+      "duration": 24,
+      "seasons": 1,
+      "chapters": 20,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Friends",
+      "genre": "Mystery",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 228,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "The Crown",
+      "genre": "Romance",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 60,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Money Heist",
+      "genre": "Action",
+      "duration": 55,
+      "seasons": 7,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Squid Game",
+      "genre": "Adventure",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 192,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Wednesday",
+      "genre": "Sci-Fi",
+      "duration": 42,
+      "seasons": 11,
+      "chapters": 99,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Ozark",
+      "genre": "Sci-Fi",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 36,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Narcos",
+      "genre": "Anime",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 88,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "The Witcher",
+      "genre": "Mystery",
+      "duration": 60,
+      "seasons": 10,
+      "chapters": 240,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Dark",
+      "genre": "Action",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 176,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "You",
+      "genre": "Anime",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 120,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Black Mirror",
+      "genre": "Crime",
+      "duration": 22,
+      "seasons": 8,
+      "chapters": 56,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Umbrella Academy",
+      "genre": "Comedy",
+      "duration": 55,
+      "seasons": 10,
+      "chapters": 220,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Bridgerton",
+      "genre": "Sci-Fi",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 192,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Better Call Saul",
+      "genre": "Crime",
+      "duration": 24,
+      "seasons": 1,
+      "chapters": 20,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "The Walking Dead",
+      "genre": "Anime",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 99,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Peaky Blinders",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 198,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Sherlock",
+      "genre": "Crime",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 112,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "House of Cards",
+      "genre": "Sci-Fi",
+      "duration": 55,
+      "seasons": 6,
+      "chapters": 54,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Orange Is the New Black",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 48,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Mindhunter",
+      "genre": "Mystery",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 24,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "The Sinner",
+      "genre": "Documentary",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 66,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "13 Reasons Why",
+      "genre": "Superhero",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 17,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Elite",
+      "genre": "Fantasy",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 52,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "La Casa de Papel",
+      "genre": "Sci-Fi",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 207,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Lupin",
+      "genre": "Thriller",
+      "duration": 30,
+      "seasons": 10,
+      "chapters": 180,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "The Queen's Gambit",
+      "genre": "Romance",
+      "duration": 22,
+      "seasons": 12,
+      "chapters": 240,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Cobra Kai",
+      "genre": "Superhero",
+      "duration": 60,
+      "seasons": 8,
+      "chapters": 120,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Sex Education",
+      "genre": "Reality",
+      "duration": 60,
+      "seasons": 4,
+      "chapters": 68,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Outer Banks",
+      "genre": "Sci-Fi",
+      "duration": 55,
+      "seasons": 9,
+      "chapters": 198,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Ginny & Georgia",
+      "genre": "Fantasy",
+      "duration": 60,
+      "seasons": 5,
+      "chapters": 35,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Emily in Paris",
+      "genre": "Animation",
+      "duration": 24,
+      "seasons": 12,
+      "chapters": 264,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Riverdale",
+      "genre": "Romance",
+      "duration": 30,
+      "seasons": 8,
+      "chapters": 176,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "American Horror Story",
+      "genre": "Documentary",
+      "duration": 22,
+      "seasons": 8,
+      "chapters": 136,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Boys",
+      "genre": "Fantasy",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 72,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Invincible",
+      "genre": "Superhero",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 192,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Loki",
+      "genre": "Crime",
+      "duration": 60,
+      "seasons": 12,
+      "chapters": 120,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "WandaVision",
+      "genre": "Adventure",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 14,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Daredevil",
+      "genre": "Romance",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 63,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Arcane",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 140,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Rick and Morty",
+      "genre": "Drama",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 22,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "BoJack Horseman",
+      "genre": "Crime",
+      "duration": 42,
+      "seasons": 10,
+      "chapters": 170,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Big Mouth",
+      "genre": "Adventure",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 153,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "F Is for Family",
+      "genre": "Reality",
+      "duration": 55,
+      "seasons": 9,
+      "chapters": 54,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Attack on Titan",
+      "genre": "Romance",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 84,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Death Note",
+      "genre": "Mystery",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 108,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Naruto",
+      "genre": "Thriller",
+      "duration": 60,
+      "seasons": 11,
+      "chapters": 121,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "One Piece",
+      "genre": "Horror",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 24,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Demon Slayer",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 16,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "My Hero Academia",
+      "genre": "Documentary",
+      "duration": 22,
+      "seasons": 8,
+      "chapters": 112,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "genre": "Reality",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 16,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "genre": "Superhero",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 240,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hunter x Hunter",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 6,
+      "chapters": 132,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Tokyo Ghoul",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 77,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Cowboy Bebop",
+      "genre": "Anime",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 100,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Neon Genesis Evangelion",
+      "genre": "Comedy",
+      "duration": 55,
+      "seasons": 1,
+      "chapters": 17,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Crash Landing on You",
+      "genre": "Thriller",
+      "duration": 50,
+      "seasons": 2,
+      "chapters": 36,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Kingdom",
+      "genre": "Documentary",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 10,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Sweet Home",
+      "genre": "Documentary",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 108,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Hellbound",
+      "genre": "Reality",
+      "duration": 24,
+      "seasons": 6,
+      "chapters": 120,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "All of Us Are Dead",
+      "genre": "Thriller",
+      "duration": 42,
+      "seasons": 6,
+      "chapters": 84,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Itaewon Class",
+      "genre": "Animation",
+      "duration": 55,
+      "seasons": 8,
+      "chapters": 176,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Vincenzo",
+      "genre": "Superhero",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 240,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Reply 1988",
+      "genre": "Anime",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 36,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Goblin",
+      "genre": "Action",
+      "duration": 50,
+      "seasons": 2,
+      "chapters": 32,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Descendants of the Sun",
+      "genre": "Fantasy",
+      "duration": 30,
+      "seasons": 5,
+      "chapters": 55,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Twenty-Five Twenty-One",
+      "genre": "Family",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 40,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The Sopranos",
+      "genre": "Crime",
+      "duration": 60,
+      "seasons": 10,
+      "chapters": 170,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The Wire",
+      "genre": "Adventure",
+      "duration": 55,
+      "seasons": 2,
+      "chapters": 30,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Mad Men",
+      "genre": "Crime",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 133,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Boardwalk Empire",
+      "genre": "Family",
+      "duration": 50,
+      "seasons": 8,
+      "chapters": 160,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "True Detective",
+      "genre": "Adventure",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 264,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Fargo",
+      "genre": "Romance",
+      "duration": 30,
+      "seasons": 1,
+      "chapters": 9,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Westworld",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 6,
+      "chapters": 132,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Chernobyl",
+      "genre": "Thriller",
+      "duration": 45,
+      "seasons": 5,
+      "chapters": 50,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Succession",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 10,
+      "chapters": 240,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Euphoria",
+      "genre": "Animation",
+      "duration": 22,
+      "seasons": 10,
+      "chapters": 70,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Barry",
+      "genre": "Family",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 132,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Silicon Valley",
+      "genre": "Reality",
+      "duration": 60,
+      "seasons": 5,
+      "chapters": 75,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Veep",
+      "genre": "Historical",
+      "duration": 24,
+      "seasons": 5,
+      "chapters": 100,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Curb Your Enthusiasm",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 160,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Atlanta",
+      "genre": "Family",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 204,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Insecure",
+      "genre": "Romance",
+      "duration": 42,
+      "seasons": 2,
+      "chapters": 32,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Ted Lasso",
+      "genre": "Historical",
+      "duration": 22,
+      "seasons": 3,
+      "chapters": 27,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Bear",
+      "genre": "Horror",
+      "duration": 50,
+      "seasons": 4,
+      "chapters": 44,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Severance",
+      "genre": "Drama",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 63,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Last of Us",
+      "genre": "Documentary",
+      "duration": 60,
+      "seasons": 2,
+      "chapters": 36,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "House of the Dragon",
+      "genre": "Superhero",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 7,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "The Mandalorian",
+      "genre": "Animation",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 115,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Andor",
+      "genre": "Family",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 204,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Obi-Wan Kenobi",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 68,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Ahsoka",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 5,
+      "chapters": 45,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Star Trek: Discovery",
+      "genre": "Adventure",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 153,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "The Expanse",
+      "genre": "Superhero",
+      "duration": 22,
+      "seasons": 1,
+      "chapters": 7,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Battlestar Galactica",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 180,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Doctor Who",
+      "genre": "Action",
+      "duration": 30,
+      "seasons": 10,
+      "chapters": 160,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Torchwood",
+      "genre": "Drama",
+      "duration": 60,
+      "seasons": 10,
+      "chapters": 160,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Downton Abbey",
+      "genre": "Drama",
+      "duration": 24,
+      "seasons": 6,
+      "chapters": 96,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The Tudors",
+      "genre": "Romance",
+      "duration": 45,
+      "seasons": 10,
+      "chapters": 210,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Vikings",
+      "genre": "Reality",
+      "duration": 60,
+      "seasons": 12,
+      "chapters": 84,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "The Last Kingdom",
+      "genre": "Horror",
+      "duration": 22,
+      "seasons": 3,
+      "chapters": 39,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Outlander",
+      "genre": "Horror",
+      "duration": 50,
+      "seasons": 1,
+      "chapters": 20,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Poldark",
+      "genre": "Comedy",
+      "duration": 60,
+      "seasons": 7,
+      "chapters": 154,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Call the Midwife",
+      "genre": "Superhero",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 120,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Grantchester",
+      "genre": "Family",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 162,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Grey's Anatomy",
+      "genre": "Animation",
+      "duration": 50,
+      "seasons": 6,
+      "chapters": 138,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "ER",
+      "genre": "Action",
+      "duration": 42,
+      "seasons": 10,
+      "chapters": 210,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "House",
+      "genre": "Superhero",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 60,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Scrubs",
+      "genre": "Animation",
+      "duration": 50,
+      "seasons": 6,
+      "chapters": 126,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "The Good Doctor",
+      "genre": "Documentary",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 45,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "New Amsterdam",
+      "genre": "Documentary",
+      "duration": 22,
+      "seasons": 3,
+      "chapters": 45,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "CSI",
+      "genre": "Animation",
+      "duration": 60,
+      "seasons": 8,
+      "chapters": 112,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "NCIS",
+      "genre": "Romance",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 126,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Criminal Minds",
+      "genre": "Historical",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 28,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Law & Order",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 6,
+      "chapters": 126,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Law & Order: SVU",
+      "genre": "Action",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 57,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Bones",
+      "genre": "Romance",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 90,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Dexter",
+      "genre": "Comedy",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 63,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Prison Break",
+      "genre": "Action",
+      "duration": 30,
+      "seasons": 7,
+      "chapters": 147,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "24",
+      "genre": "Mystery",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 6,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Lost",
+      "genre": "Adventure",
+      "duration": 60,
+      "seasons": 5,
+      "chapters": 100,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Fringe",
+      "genre": "Anime",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 112,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Person of Interest",
+      "genre": "Action",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 154,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Homeland",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 10,
+      "chapters": 120,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "The Blacklist",
+      "genre": "Thriller",
+      "duration": 50,
+      "seasons": 7,
+      "chapters": 154,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Elementary",
+      "genre": "Reality",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 63,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Suits",
+      "genre": "Drama",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 80,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "How to Get Away with Murder",
+      "genre": "Action",
+      "duration": 42,
+      "seasons": 5,
+      "chapters": 85,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Big Little Lies",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 54,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Sharp Objects",
+      "genre": "Anime",
+      "duration": 42,
+      "seasons": 6,
+      "chapters": 78,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The Undoing",
+      "genre": "Family",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 204,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Mare of Easttown",
+      "genre": "Crime",
+      "duration": 42,
+      "seasons": 11,
+      "chapters": 132,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Yellowstone",
+      "genre": "Comedy",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 180,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "1883",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 9,
+      "chapters": 198,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "1923",
+      "genre": "Superhero",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 180,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Bloodline",
+      "genre": "Adventure",
+      "duration": 60,
+      "seasons": 2,
+      "chapters": 44,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Justified",
+      "genre": "Action",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 140,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Longmire",
+      "genre": "Horror",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 72,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "genre": "Family",
+      "duration": 22,
+      "seasons": 10,
+      "chapters": 80,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Orphan Black",
+      "genre": "Sci-Fi",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 8,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Sense8",
+      "genre": "Reality",
+      "duration": 50,
+      "seasons": 11,
+      "chapters": 209,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Manifest",
+      "genre": "Thriller",
+      "duration": 30,
+      "seasons": 7,
+      "chapters": 56,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The 100",
+      "genre": "Drama",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 162,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Shadow and Bone",
+      "genre": "Family",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 15,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The Wheel of Time",
+      "genre": "Horror",
+      "duration": 42,
+      "seasons": 7,
+      "chapters": 91,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Foundation",
+      "genre": "Drama",
+      "duration": 22,
+      "seasons": 12,
+      "chapters": 108,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Silo",
+      "genre": "Comedy",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 48,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "3 Body Problem",
+      "genre": "Comedy",
+      "duration": 55,
+      "seasons": 4,
+      "chapters": 28,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Fallout",
+      "genre": "Mystery",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 66,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Dune: Prophecy",
+      "genre": "Adventure",
+      "duration": 42,
+      "seasons": 10,
+      "chapters": 160,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Modern Family",
+      "genre": "Thriller",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 76,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Parks and Recreation",
+      "genre": "Reality",
+      "duration": 60,
+      "seasons": 11,
+      "chapters": 209,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Brooklyn Nine-Nine",
+      "genre": "Thriller",
+      "duration": 55,
+      "seasons": 9,
+      "chapters": 144,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Community",
+      "genre": "Sci-Fi",
+      "duration": 42,
+      "seasons": 9,
+      "chapters": 189,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "30 Rock",
+      "genre": "Sci-Fi",
+      "duration": 55,
+      "seasons": 8,
+      "chapters": 56,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Arrested Development",
+      "genre": "Anime",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 91,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "It's Always Sunny in Philadelphia",
+      "genre": "Comedy",
+      "duration": 42,
+      "seasons": 6,
+      "chapters": 48,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "How I Met Your Mother",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 2,
+      "chapters": 24,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Two and a Half Men",
+      "genre": "Fantasy",
+      "duration": 42,
+      "seasons": 5,
+      "chapters": 30,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "The Big Bang Theory",
+      "genre": "Reality",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 252,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Seinfeld",
+      "genre": "Family",
+      "duration": 50,
+      "seasons": 4,
+      "chapters": 92,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Frasier",
+      "genre": "Superhero",
+      "duration": 45,
+      "seasons": 11,
+      "chapters": 187,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Cheers",
+      "genre": "Horror",
+      "duration": 60,
+      "seasons": 8,
+      "chapters": 72,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "M*A*S*H",
+      "genre": "Sci-Fi",
+      "duration": 55,
+      "seasons": 6,
+      "chapters": 96,
+      "rating": "TV-Y7",
+      "is_finished": false
+    },
+    {
+      "title": "Full House",
+      "genre": "Romance",
+      "duration": 55,
+      "seasons": 1,
+      "chapters": 14,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "That '70s Show",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 7,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Malcolm in the Middle",
+      "genre": "Documentary",
+      "duration": 60,
+      "seasons": 5,
+      "chapters": 105,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Everybody Loves Raymond",
+      "genre": "Comedy",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 30,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Schitt's Creek",
+      "genre": "Drama",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 63,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Fleabag",
+      "genre": "Horror",
+      "duration": 42,
+      "seasons": 7,
+      "chapters": 70,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Derry Girls",
+      "genre": "Superhero",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 180,
+      "rating": "TV-Y7",
+      "is_finished": false
+    },
+    {
+      "title": "Catastrophe",
+      "genre": "Drama",
+      "duration": 22,
+      "seasons": 11,
+      "chapters": 231,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Peep Show",
+      "genre": "Adventure",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 22,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Inbetweeners",
+      "genre": "Sci-Fi",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 228,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Skins",
+      "genre": "Reality",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 48,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Misfits",
+      "genre": "Romance",
+      "duration": 55,
+      "seasons": 2,
+      "chapters": 34,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Doctor Foster",
+      "genre": "Family",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 40,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Broadchurch",
+      "genre": "Historical",
+      "duration": 22,
+      "seasons": 8,
+      "chapters": 56,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Happy Valley",
+      "genre": "Romance",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 176,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Line of Duty",
+      "genre": "Animation",
+      "duration": 60,
+      "seasons": 4,
+      "chapters": 96,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Luther",
+      "genre": "Drama",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 216,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Killing Eve",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 96,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "The Night Manager",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 2,
+      "chapters": 30,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Bodyguard",
+      "genre": "Crime",
+      "duration": 50,
+      "seasons": 11,
+      "chapters": 253,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Merlin",
+      "genre": "Crime",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 153,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Robin Hood",
+      "genre": "Anime",
+      "duration": 50,
+      "seasons": 6,
+      "chapters": 108,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Primeval",
+      "genre": "Thriller",
+      "duration": 50,
+      "seasons": 8,
+      "chapters": 104,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Vikings: Valhalla",
+      "genre": "Romance",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 264,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Marco Polo",
+      "genre": "Sci-Fi",
+      "duration": 24,
+      "seasons": 12,
+      "chapters": 96,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Last Ship",
+      "genre": "Action",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 216,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Man in the High Castle",
+      "genre": "Historical",
+      "duration": 45,
+      "seasons": 8,
+      "chapters": 136,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Jack Ryan",
+      "genre": "Family",
+      "duration": 55,
+      "seasons": 8,
+      "chapters": 184,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Reacher",
+      "genre": "Crime",
+      "duration": 55,
+      "seasons": 2,
+      "chapters": 32,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Titans",
+      "genre": "Reality",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 276,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Doom Patrol",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 30,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Flash",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 57,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Arrow",
+      "genre": "Horror",
+      "duration": 42,
+      "seasons": 6,
+      "chapters": 84,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Supergirl",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 8,
+      "chapters": 72,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Legends of Tomorrow",
+      "genre": "Sci-Fi",
+      "duration": 50,
+      "seasons": 10,
+      "chapters": 180,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Gotham",
+      "genre": "Reality",
+      "duration": 42,
+      "seasons": 5,
+      "chapters": 80,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Smallville",
+      "genre": "Mystery",
+      "duration": 60,
+      "seasons": 6,
+      "chapters": 90,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Heroes",
+      "genre": "Horror",
+      "duration": 55,
+      "seasons": 7,
+      "chapters": 98,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Chuck",
+      "genre": "Anime",
+      "duration": 30,
+      "seasons": 10,
+      "chapters": 230,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Alias",
+      "genre": "Crime",
+      "duration": 60,
+      "seasons": 12,
+      "chapters": 144,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Burn Notice",
+      "genre": "Sci-Fi",
+      "duration": 30,
+      "seasons": 7,
+      "chapters": 147,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "White Collar",
+      "genre": "Superhero",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 228,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Leverage",
+      "genre": "Documentary",
+      "duration": 55,
+      "seasons": 10,
+      "chapters": 180,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Psych",
+      "genre": "Documentary",
+      "duration": 24,
+      "seasons": 12,
+      "chapters": 276,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Monk",
+      "genre": "Historical",
+      "duration": 55,
+      "seasons": 3,
+      "chapters": 21,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Columbo",
+      "genre": "Adventure",
+      "duration": 24,
+      "seasons": 2,
+      "chapters": 12,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Miami Vice",
+      "genre": "Adventure",
+      "duration": 42,
+      "seasons": 9,
+      "chapters": 216,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hawaii Five-0",
+      "genre": "Crime",
+      "duration": 22,
+      "seasons": 3,
+      "chapters": 51,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Magnum P.I.",
+      "genre": "Horror",
+      "duration": 50,
+      "seasons": 2,
+      "chapters": 20,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "MacGyver",
+      "genre": "Anime",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 189,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The A-Team",
+      "genre": "Drama",
+      "duration": 45,
+      "seasons": 6,
+      "chapters": 48,
+      "rating": "TV-Y7",
+      "is_finished": false
+    },
+    {
+      "title": "Knight Rider",
+      "genre": "Adventure",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 54,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "El Camino",
+      "genre": "Anime",
+      "duration": 30,
+      "seasons": 3,
+      "chapters": 69,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Vinland Saga",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 72,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Spy x Family",
+      "genre": "Horror",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 12,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Chainsaw Man",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 56,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Mob Psycho 100",
+      "genre": "Superhero",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 51,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "One Punch Man",
+      "genre": "Documentary",
+      "duration": 55,
+      "seasons": 9,
+      "chapters": 144,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Bleach",
+      "genre": "Action",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 120,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Dragon Ball Z",
+      "genre": "Romance",
+      "duration": 24,
+      "seasons": 10,
+      "chapters": 240,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Sailor Moon",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 5,
+      "chapters": 45,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Pokemon",
+      "genre": "Family",
+      "duration": 55,
+      "seasons": 7,
+      "chapters": 70,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Digimon",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 132,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Yu-Gi-Oh!",
+      "genre": "Horror",
+      "duration": 50,
+      "seasons": 8,
+      "chapters": 56,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Inuyasha",
+      "genre": "Anime",
+      "duration": 60,
+      "seasons": 7,
+      "chapters": 161,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Fruits Basket",
+      "genre": "Romance",
+      "duration": 24,
+      "seasons": 8,
+      "chapters": 88,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Violet Evergarden",
+      "genre": "Anime",
+      "duration": 45,
+      "seasons": 5,
+      "chapters": 35,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Your Lie in April",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 10,
+      "chapters": 210,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Steins;Gate",
+      "genre": "Horror",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 138,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Code Geass",
+      "genre": "Anime",
+      "duration": 42,
+      "seasons": 7,
+      "chapters": 63,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Gurren Lagann",
+      "genre": "Romance",
+      "duration": 24,
+      "seasons": 5,
+      "chapters": 85,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Fairy Tail",
+      "genre": "Historical",
+      "duration": 50,
+      "seasons": 4,
+      "chapters": 96,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Black Clover",
+      "genre": "Documentary",
+      "duration": 42,
+      "seasons": 3,
+      "chapters": 30,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "The Promised Neverland",
+      "genre": "Action",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 126,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Erased",
+      "genre": "Historical",
+      "duration": 24,
+      "seasons": 10,
+      "chapters": 140,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Parasyte",
+      "genre": "Sci-Fi",
+      "duration": 30,
+      "seasons": 1,
+      "chapters": 14,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Terror in Resonance",
+      "genre": "Superhero",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 192,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "91 Days",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 72,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Baccano!",
+      "genre": "Documentary",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 88,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Money Heist: Korea",
+      "genre": "Crime",
+      "duration": 50,
+      "seasons": 8,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Physical: 100",
+      "genre": "Reality",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 240,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "The Glory",
+      "genre": "Action",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 76,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Extraordinary Attorney Woo",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 138,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Business Proposal",
+      "genre": "Anime",
+      "duration": 22,
+      "seasons": 11,
+      "chapters": 77,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Hospital Playlist",
+      "genre": "Historical",
+      "duration": 30,
+      "seasons": 1,
+      "chapters": 9,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Mr. Sunshine",
+      "genre": "Animation",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 40,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Signal",
+      "genre": "Thriller",
+      "duration": 45,
+      "seasons": 2,
+      "chapters": 34,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Stranger (Secret Forest)",
+      "genre": "Historical",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 18,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Flower of Evil",
+      "genre": "Sci-Fi",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 88,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "It's Okay to Not Be Okay",
+      "genre": "Fantasy",
+      "duration": 60,
+      "seasons": 10,
+      "chapters": 130,
+      "rating": "TV-Y",
+      "is_finished": false
+    },
+    {
+      "title": "Start-Up",
+      "genre": "Fantasy",
+      "duration": 60,
+      "seasons": 7,
+      "chapters": 70,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "W",
+      "genre": "Sci-Fi",
+      "duration": 50,
+      "seasons": 2,
+      "chapters": 32,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Alchemy of Souls",
+      "genre": "Thriller",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 110,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Moving",
+      "genre": "Historical",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 136,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "My Name",
+      "genre": "Fantasy",
+      "duration": 42,
+      "seasons": 10,
+      "chapters": 200,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "D.P.",
+      "genre": "Sci-Fi",
+      "duration": 50,
+      "seasons": 10,
+      "chapters": 180,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Dirty Money",
+      "genre": "Action",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 56,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Making a Murderer",
+      "genre": "Horror",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 72,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Tiger King",
+      "genre": "Romance",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 216,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "The Tinder Swindler",
+      "genre": "Crime",
+      "duration": 24,
+      "seasons": 8,
+      "chapters": 144,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Wild Wild Country",
+      "genre": "Historical",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 54,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Don't F**k with Cats",
+      "genre": "Crime",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 138,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "American Murder",
+      "genre": "Comedy",
+      "duration": 24,
+      "seasons": 1,
+      "chapters": 24,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "The Staircase",
+      "genre": "Historical",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 154,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Keepers",
+      "genre": "Sci-Fi",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 126,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Abducted in Plain Sight",
+      "genre": "Sci-Fi",
+      "duration": 45,
+      "seasons": 5,
+      "chapters": 40,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Chef's Table",
+      "genre": "Crime",
+      "duration": 55,
+      "seasons": 9,
+      "chapters": 144,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Somebody Feed Phil",
+      "genre": "Historical",
+      "duration": 42,
+      "seasons": 5,
+      "chapters": 95,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Salt Fat Acid Heat",
+      "genre": "Thriller",
+      "duration": 22,
+      "seasons": 2,
+      "chapters": 40,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Nailed It",
+      "genre": "Documentary",
+      "duration": 30,
+      "seasons": 2,
+      "chapters": 12,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The Great British Bake Off",
+      "genre": "Animation",
+      "duration": 45,
+      "seasons": 9,
+      "chapters": 198,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "MasterChef",
+      "genre": "Adventure",
+      "duration": 22,
+      "seasons": 12,
+      "chapters": 108,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hell's Kitchen",
+      "genre": "Comedy",
+      "duration": 24,
+      "seasons": 2,
+      "chapters": 28,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Top Chef",
+      "genre": "Fantasy",
+      "duration": 30,
+      "seasons": 8,
+      "chapters": 192,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Chopped",
+      "genre": "Drama",
+      "duration": 42,
+      "seasons": 10,
+      "chapters": 90,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Cutthroat Kitchen",
+      "genre": "Thriller",
+      "duration": 60,
+      "seasons": 4,
+      "chapters": 28,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Iron Chef",
+      "genre": "Mystery",
+      "duration": 55,
+      "seasons": 1,
+      "chapters": 23,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Love Is Blind",
+      "genre": "Comedy",
+      "duration": 50,
+      "seasons": 5,
+      "chapters": 40,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "The Circle",
+      "genre": "Anime",
+      "duration": 22,
+      "seasons": 3,
+      "chapters": 39,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Too Hot to Handle",
+      "genre": "Documentary",
+      "duration": 50,
+      "seasons": 5,
+      "chapters": 75,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Selling Sunset",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 60,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Queer Eye",
+      "genre": "Romance",
+      "duration": 42,
+      "seasons": 10,
+      "chapters": 210,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "RuPaul's Drag Race",
+      "genre": "Drama",
+      "duration": 55,
+      "seasons": 3,
+      "chapters": 18,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "The Great British Sewing Bee",
+      "genre": "Fantasy",
+      "duration": 55,
+      "seasons": 6,
+      "chapters": 36,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Survivor",
+      "genre": "Sci-Fi",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 88,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "The Amazing Race",
+      "genre": "Adventure",
+      "duration": 24,
+      "seasons": 12,
+      "chapters": 168,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Big Brother",
+      "genre": "Fantasy",
+      "duration": 60,
+      "seasons": 7,
+      "chapters": 119,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "American Idol",
+      "genre": "Historical",
+      "duration": 55,
+      "seasons": 9,
+      "chapters": 90,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "The Voice",
+      "genre": "Reality",
+      "duration": 42,
+      "seasons": 11,
+      "chapters": 110,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "So You Think You Can Dance",
+      "genre": "Horror",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 192,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Dancing with the Stars",
+      "genre": "Anime",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 72,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Shark Tank",
+      "genre": "Horror",
+      "duration": 24,
+      "seasons": 6,
+      "chapters": 114,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "The Apprentice",
+      "genre": "Thriller",
+      "duration": 60,
+      "seasons": 8,
+      "chapters": 120,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Undercover Boss",
+      "genre": "Sci-Fi",
+      "duration": 22,
+      "seasons": 11,
+      "chapters": 165,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Planet Earth",
+      "genre": "Action",
+      "duration": 50,
+      "seasons": 2,
+      "chapters": 26,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Blue Planet",
+      "genre": "Family",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 55,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Our Planet",
+      "genre": "Sci-Fi",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 276,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Cosmos",
+      "genre": "Sci-Fi",
+      "duration": 22,
+      "seasons": 2,
+      "chapters": 12,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Band of Brothers",
+      "genre": "Crime",
+      "duration": 50,
+      "seasons": 4,
+      "chapters": 72,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "The Pacific",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 10,
+      "chapters": 240,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Generation Kill",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 80,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Rome",
+      "genre": "Historical",
+      "duration": 60,
+      "seasons": 2,
+      "chapters": 14,
+      "rating": "TV-Y7",
+      "is_finished": false
+    },
+    {
+      "title": "Deadwood",
+      "genre": "Thriller",
+      "duration": 60,
+      "seasons": 12,
+      "chapters": 216,
+      "rating": "TV-Y",
+      "is_finished": false
+    },
+    {
+      "title": "Carnivale",
+      "genre": "Sci-Fi",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 72,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "John Adams",
+      "genre": "Superhero",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 13,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Watchmen",
+      "genre": "Adventure",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 8,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Leftovers",
+      "genre": "Documentary",
+      "duration": 22,
+      "seasons": 4,
+      "chapters": 92,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Six Feet Under",
+      "genre": "Mystery",
+      "duration": 60,
+      "seasons": 8,
+      "chapters": 184,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "In Treatment",
+      "genre": "Drama",
+      "duration": 30,
+      "seasons": 7,
+      "chapters": 98,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Big Love",
+      "genre": "Romance",
+      "duration": 60,
+      "seasons": 5,
+      "chapters": 35,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Weeds",
+      "genre": "Comedy",
+      "duration": 42,
+      "seasons": 3,
+      "chapters": 27,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Nurse Jackie",
+      "genre": "Thriller",
+      "duration": 55,
+      "seasons": 4,
+      "chapters": 96,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Shameless",
+      "genre": "Drama",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 39,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Californication",
+      "genre": "Superhero",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 204,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Entourage",
+      "genre": "Romance",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 135,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Ballers",
+      "genre": "Horror",
+      "duration": 22,
+      "seasons": 10,
+      "chapters": 130,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "House of Lies",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 3,
+      "chapters": 48,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Billions",
+      "genre": "Fantasy",
+      "duration": 30,
+      "seasons": 1,
+      "chapters": 6,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Industry",
+      "genre": "Reality",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 153,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Yellowjackets",
+      "genre": "Thriller",
+      "duration": 50,
+      "seasons": 10,
+      "chapters": 90,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Servant",
+      "genre": "Family",
+      "duration": 60,
+      "seasons": 12,
+      "chapters": 228,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "genre": "Reality",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 204,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "The Haunting of Bly Manor",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 5,
+      "chapters": 75,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Midnight Mass",
+      "genre": "Romance",
+      "duration": 30,
+      "seasons": 10,
+      "chapters": 70,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "American Horror Stories",
+      "genre": "Crime",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 264,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Chilling Adventures of Sabrina",
+      "genre": "Crime",
+      "duration": 50,
+      "seasons": 4,
+      "chapters": 68,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Locke & Key",
+      "genre": "Crime",
+      "duration": 60,
+      "seasons": 12,
+      "chapters": 192,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Lucifer",
+      "genre": "Anime",
+      "duration": 24,
+      "seasons": 6,
+      "chapters": 84,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Supernatural",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 228,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Grimm",
+      "genre": "Romance",
+      "duration": 55,
+      "seasons": 6,
+      "chapters": 138,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Once Upon a Time",
+      "genre": "Drama",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 60,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Charmed",
+      "genre": "Reality",
+      "duration": 24,
+      "seasons": 6,
+      "chapters": 84,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Buffy the Vampire Slayer",
+      "genre": "Superhero",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 24,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Angel",
+      "genre": "Historical",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 72,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "True Blood",
+      "genre": "Historical",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 21,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "The Vampire Diaries",
+      "genre": "Fantasy",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 276,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The Originals",
+      "genre": "Historical",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 18,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Legacies",
+      "genre": "Thriller",
+      "duration": 60,
+      "seasons": 2,
+      "chapters": 30,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Teen Wolf",
+      "genre": "Reality",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 165,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Pretty Little Liars",
+      "genre": "Thriller",
+      "duration": 45,
+      "seasons": 8,
+      "chapters": 168,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Gossip Girl",
+      "genre": "Anime",
+      "duration": 50,
+      "seasons": 6,
+      "chapters": 108,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "One Tree Hill",
+      "genre": "Sci-Fi",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 112,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The O.C.",
+      "genre": "Historical",
+      "duration": 24,
+      "seasons": 12,
+      "chapters": 108,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "90210",
+      "genre": "Historical",
+      "duration": 22,
+      "seasons": 10,
+      "chapters": 130,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Dawson's Creek",
+      "genre": "Comedy",
+      "duration": 42,
+      "seasons": 9,
+      "chapters": 189,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Vampire Academy",
+      "genre": "Thriller",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 216,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Shadowhunters",
+      "genre": "Historical",
+      "duration": 42,
+      "seasons": 3,
+      "chapters": 36,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Cursed",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 40,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "The Order",
+      "genre": "Adventure",
+      "duration": 55,
+      "seasons": 2,
+      "chapters": 36,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Warrior Nun",
+      "genre": "Fantasy",
+      "duration": 55,
+      "seasons": 8,
+      "chapters": 48,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Kaos",
+      "genre": "Documentary",
+      "duration": 24,
+      "seasons": 2,
+      "chapters": 48,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Percy Jackson and the Olympians",
+      "genre": "Superhero",
+      "duration": 55,
+      "seasons": 7,
+      "chapters": 98,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Good Omens",
+      "genre": "Reality",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 11,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "American Gods",
+      "genre": "Superhero",
+      "duration": 50,
+      "seasons": 1,
+      "chapters": 18,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Carnival Row",
+      "genre": "Action",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 85,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "His Dark Materials",
+      "genre": "Action",
+      "duration": 24,
+      "seasons": 5,
+      "chapters": 105,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The Sandman",
+      "genre": "Crime",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 240,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Constantine",
+      "genre": "Superhero",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 80,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Wynonna Earp",
+      "genre": "Action",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 153,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "iZombie",
+      "genre": "Drama",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 264,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "The Magicians",
+      "genre": "Anime",
+      "duration": 42,
+      "seasons": 3,
+      "chapters": 36,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Snowpiercer",
+      "genre": "Adventure",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 17,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Colony",
+      "genre": "Anime",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 63,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Extant",
+      "genre": "Animation",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 63,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Altered Carbon",
+      "genre": "Horror",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 96,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Nightflyers",
+      "genre": "Drama",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 52,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Lost in Space",
+      "genre": "Drama",
+      "duration": 60,
+      "seasons": 11,
+      "chapters": 66,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Away",
+      "genre": "Animation",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 56,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Raised by Wolves",
+      "genre": "Action",
+      "duration": 50,
+      "seasons": 7,
+      "chapters": 126,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "For All Mankind",
+      "genre": "Documentary",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 242,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "See",
+      "genre": "Mystery",
+      "duration": 45,
+      "seasons": 9,
+      "chapters": 135,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Mr. Robot",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 5,
+      "chapters": 80,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Halt and Catch Fire",
+      "genre": "Reality",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 40,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Devs",
+      "genre": "Action",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 176,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "The OA",
+      "genre": "Horror",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 95,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Maniac",
+      "genre": "Adventure",
+      "duration": 60,
+      "seasons": 6,
+      "chapters": 78,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Kidding",
+      "genre": "Animation",
+      "duration": 30,
+      "seasons": 5,
+      "chapters": 55,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Legion",
+      "genre": "Crime",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 276,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Pose",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 68,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "American Crime Story",
+      "genre": "Comedy",
+      "duration": 45,
+      "seasons": 6,
+      "chapters": 84,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Feud",
+      "genre": "Fantasy",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 264,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Ratched",
+      "genre": "Sci-Fi",
+      "duration": 45,
+      "seasons": 11,
+      "chapters": 198,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Hollywood",
+      "genre": "Anime",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 36,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Monster: The Jeffrey Dahmer Story",
+      "genre": "Thriller",
+      "duration": 30,
+      "seasons": 3,
+      "chapters": 48,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Dahmer",
+      "genre": "Thriller",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 42,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Unbelievable",
+      "genre": "Sci-Fi",
+      "duration": 60,
+      "seasons": 10,
+      "chapters": 110,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "When They See Us",
+      "genre": "Reality",
+      "duration": 55,
+      "seasons": 10,
+      "chapters": 190,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Cheer",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 7,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Last Chance U",
+      "genre": "Romance",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 108,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Formula 1: Drive to Survive",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 68,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "The Playbook",
+      "genre": "Adventure",
+      "duration": 22,
+      "seasons": 3,
+      "chapters": 24,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "All or Nothing",
+      "genre": "Sci-Fi",
+      "duration": 50,
+      "seasons": 10,
+      "chapters": 220,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Break Point",
+      "genre": "Reality",
+      "duration": 50,
+      "seasons": 6,
+      "chapters": 126,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Full Swing",
+      "genre": "Drama",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 13,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "And Just Like That",
+      "genre": "Comedy",
+      "duration": 30,
+      "seasons": 10,
+      "chapters": 220,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Sex and the City",
+      "genre": "Fantasy",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 98,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Girls",
+      "genre": "Reality",
+      "duration": 22,
+      "seasons": 11,
+      "chapters": 66,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Broad City",
+      "genre": "Drama",
+      "duration": 45,
+      "seasons": 2,
+      "chapters": 46,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Marvelous Mrs. Maisel",
+      "genre": "Sci-Fi",
+      "duration": 24,
+      "seasons": 5,
+      "chapters": 95,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Russian Doll",
+      "genre": "Superhero",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 63,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Dead to Me",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 48,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Grace and Frankie",
+      "genre": "Horror",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 228,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "One Day at a Time",
+      "genre": "Crime",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 252,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Master of None",
+      "genre": "Adventure",
+      "duration": 60,
+      "seasons": 2,
+      "chapters": 48,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Never Have I Ever",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 2,
+      "chapters": 18,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "On My Block",
+      "genre": "Comedy",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 100,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Élite",
+      "genre": "Comedy",
+      "duration": 50,
+      "seasons": 5,
+      "chapters": 85,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Skam",
+      "genre": "Animation",
+      "duration": 30,
+      "seasons": 1,
+      "chapters": 10,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Heartstopper",
+      "genre": "Reality",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 96,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Young Royals",
+      "genre": "Superhero",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 140,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Sex Life",
+      "genre": "Thriller",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 77,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "The Politician",
+      "genre": "Thriller",
+      "duration": 60,
+      "seasons": 2,
+      "chapters": 38,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Ryan Murphy's Feud",
+      "genre": "Sci-Fi",
+      "duration": 50,
+      "seasons": 10,
+      "chapters": 180,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Masters of the Air",
+      "genre": "Crime",
+      "duration": 24,
+      "seasons": 8,
+      "chapters": 168,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The Diplomat",
+      "genre": "Romance",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 80,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Slow Horses",
+      "genre": "Superhero",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 176,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Bodies",
+      "genre": "Comedy",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 108,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Black Doves",
+      "genre": "Crime",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 11,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Rebus",
+      "genre": "Adventure",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 128,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Time",
+      "genre": "Anime",
+      "duration": 55,
+      "seasons": 4,
+      "chapters": 92,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Responder",
+      "genre": "Mystery",
+      "duration": 60,
+      "seasons": 8,
+      "chapters": 192,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Boiling Point",
+      "genre": "Family",
+      "duration": 22,
+      "seasons": 2,
+      "chapters": 42,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "This Is Us",
+      "genre": "Action",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 54,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Station 19",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 9,
+      "chapters": 207,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "9-1-1",
+      "genre": "Superhero",
+      "duration": 42,
+      "seasons": 6,
+      "chapters": 42,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "9-1-1: Lone Star",
+      "genre": "Romance",
+      "duration": 60,
+      "seasons": 12,
+      "chapters": 204,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Chicago Fire",
+      "genre": "Action",
+      "duration": 50,
+      "seasons": 1,
+      "chapters": 16,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Chicago P.D.",
+      "genre": "Thriller",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 198,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Chicago Med",
+      "genre": "Horror",
+      "duration": 55,
+      "seasons": 8,
+      "chapters": 80,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "FBI",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 2,
+      "chapters": 36,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "FBI: Most Wanted",
+      "genre": "Fantasy",
+      "duration": 22,
+      "seasons": 2,
+      "chapters": 38,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "S.W.A.T.",
+      "genre": "Comedy",
+      "duration": 30,
+      "seasons": 8,
+      "chapters": 160,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The Rookie",
+      "genre": "Thriller",
+      "duration": 60,
+      "seasons": 9,
+      "chapters": 171,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Blue Bloods",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 288,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "NCIS: Los Angeles",
+      "genre": "Romance",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 176,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "NCIS: Hawaiʻi",
+      "genre": "Sci-Fi",
+      "duration": 50,
+      "seasons": 5,
+      "chapters": 90,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Roswell, New Mexico",
+      "genre": "Mystery",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 57,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Nancy Drew",
+      "genre": "Action",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 276,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Katy Keene",
+      "genre": "Thriller",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 187,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Peacemaker",
+      "genre": "Family",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 207,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Superman & Lois",
+      "genre": "Family",
+      "duration": 55,
+      "seasons": 8,
+      "chapters": 192,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Batwoman",
+      "genre": "Sci-Fi",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 95,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Stargirl",
+      "genre": "Action",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 7,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Naomi",
+      "genre": "Action",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 154,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "The Last Airbender: Avatar",
+      "genre": "Family",
+      "duration": 22,
+      "seasons": 4,
+      "chapters": 92,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "The Legend of Korra",
+      "genre": "Action",
+      "duration": 55,
+      "seasons": 4,
+      "chapters": 92,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Avatar: The Last Airbender",
+      "genre": "Mystery",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 84,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Voltron: Legendary Defender",
+      "genre": "Anime",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 63,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "She-Ra and the Princesses of Power",
+      "genre": "Action",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 68,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Castlevania",
+      "genre": "Adventure",
+      "duration": 24,
+      "seasons": 8,
+      "chapters": 88,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Blood of Zeus",
+      "genre": "Sci-Fi",
+      "duration": 22,
+      "seasons": 2,
+      "chapters": 36,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Trollhunters",
+      "genre": "Sci-Fi",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 72,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Kipo and the Age of Wonderbeasts",
+      "genre": "Action",
+      "duration": 50,
+      "seasons": 1,
+      "chapters": 10,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Gravity Falls",
+      "genre": "Adventure",
+      "duration": 50,
+      "seasons": 8,
+      "chapters": 192,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Adventure Time",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 44,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Regular Show",
+      "genre": "Mystery",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 162,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Steven Universe",
+      "genre": "Adventure",
+      "duration": 45,
+      "seasons": 6,
+      "chapters": 102,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "The Amazing World of Gumball",
+      "genre": "Romance",
+      "duration": 22,
+      "seasons": 8,
+      "chapters": 184,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "We Bare Bears",
+      "genre": "Fantasy",
+      "duration": 22,
+      "seasons": 11,
+      "chapters": 143,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "South Park",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 98,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Family Guy",
+      "genre": "Horror",
+      "duration": 60,
+      "seasons": 9,
+      "chapters": 198,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "American Dad!",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 6,
+      "chapters": 132,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Bob's Burgers",
+      "genre": "Horror",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 54,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "The Simpsons",
+      "genre": "Historical",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 209,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "King of the Hill",
+      "genre": "Comedy",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 88,
+      "rating": "TV-Y",
+      "is_finished": false
+    },
+    {
+      "title": "Futurama",
+      "genre": "Crime",
+      "duration": 22,
+      "seasons": 2,
+      "chapters": 16,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Archer",
+      "genre": "Reality",
+      "duration": 45,
+      "seasons": 10,
+      "chapters": 130,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Bojack Horseman",
+      "genre": "Drama",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 112,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Tuca & Bertie",
+      "genre": "Adventure",
+      "duration": 22,
+      "seasons": 11,
+      "chapters": 88,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Undone",
+      "genre": "Anime",
+      "duration": 45,
+      "seasons": 2,
+      "chapters": 30,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Solar Opposites",
+      "genre": "Sci-Fi",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 126,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Harley Quinn",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 216,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Robot Chicken",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 1,
+      "chapters": 23,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Aqua Teen Hunger Force",
+      "genre": "Documentary",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 207,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Squid Game: The Challenge",
+      "genre": "Animation",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 76,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Alice in Borderland",
+      "genre": "Comedy",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 36,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Beef",
+      "genre": "Fantasy",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 180,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Shogun",
+      "genre": "Romance",
+      "duration": 60,
+      "seasons": 4,
+      "chapters": 96,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Ripley",
+      "genre": "Anime",
+      "duration": 24,
+      "seasons": 2,
+      "chapters": 30,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Baby Reindeer",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 90,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Fool Me Once",
+      "genre": "Historical",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 77,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Griselda",
+      "genre": "Superhero",
+      "duration": 30,
+      "seasons": 5,
+      "chapters": 85,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Chicken Run",
+      "genre": "Fantasy",
+      "duration": 50,
+      "seasons": 8,
+      "chapters": 160,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Painkiller",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 24,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Maid",
+      "genre": "Adventure",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 56,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Inventing Anna",
+      "genre": "Comedy",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 66,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "The Watcher",
+      "genre": "Reality",
+      "duration": 60,
+      "seasons": 9,
+      "chapters": 126,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "One Piece (live action)",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 96,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Avatar: The Last Airbender (live action)",
+      "genre": "Thriller",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 119,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Queen Charlotte",
+      "genre": "Sci-Fi",
+      "duration": 60,
+      "seasons": 9,
+      "chapters": 90,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "The Gilded Age",
+      "genre": "Romance",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 252,
+      "rating": "TV-Y7",
+      "is_finished": false
+    },
+    {
+      "title": "Victoria",
+      "genre": "Adventure",
+      "duration": 50,
+      "seasons": 2,
+      "chapters": 28,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Taboo",
+      "genre": "Comedy",
+      "duration": 60,
+      "seasons": 6,
+      "chapters": 108,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Ripper Street",
+      "genre": "Animation",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 176,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Penny Dreadful",
+      "genre": "Crime",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Last Shadows Awakens",
+      "genre": "Reality",
+      "duration": 55,
+      "seasons": 9,
+      "chapters": 126,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Echoes",
+      "genre": "Drama",
+      "duration": 60,
+      "seasons": 6,
+      "chapters": 102,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Legacy Reborn",
+      "genre": "Animation",
+      "duration": 60,
+      "seasons": 9,
+      "chapters": 90,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Horizon Chronicles",
+      "genre": "Fantasy",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 40,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred Kingdom",
+      "genre": "Superhero",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 143,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Hidden Harbor",
+      "genre": "Historical",
+      "duration": 60,
+      "seasons": 11,
+      "chapters": 231,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Wandering Realm",
+      "genre": "Sci-Fi",
+      "duration": 22,
+      "seasons": 1,
+      "chapters": 13,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Harbor Awakens",
+      "genre": "Thriller",
+      "duration": 22,
+      "seasons": 11,
+      "chapters": 242,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Frontier",
+      "genre": "Drama",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 55,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Code",
+      "genre": "Superhero",
+      "duration": 24,
+      "seasons": 12,
+      "chapters": 180,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Silent Signal Awakens",
+      "genre": "Thriller",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 88,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred Garden",
+      "genre": "Anime",
+      "duration": 45,
+      "seasons": 10,
+      "chapters": 220,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Harbor Rebellion",
+      "genre": "Fantasy",
+      "duration": 24,
+      "seasons": 10,
+      "chapters": 240,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Legacy",
+      "genre": "Thriller",
+      "duration": 55,
+      "seasons": 1,
+      "chapters": 12,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Legacy II",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 8,
+      "chapters": 56,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Burning Realm",
+      "genre": "Adventure",
+      "duration": 55,
+      "seasons": 1,
+      "chapters": 19,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Broken Circle Origins",
+      "genre": "Fantasy",
+      "duration": 60,
+      "seasons": 7,
+      "chapters": 91,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Last Throne",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 70,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Storm Legacy",
+      "genre": "Drama",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 115,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Quiet City Chronicles",
+      "genre": "Horror",
+      "duration": 24,
+      "seasons": 10,
+      "chapters": 220,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Endless Horizon",
+      "genre": "Animation",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 192,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Storm",
+      "genre": "Reality",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 115,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Forgotten Legacy III",
+      "genre": "Superhero",
+      "duration": 60,
+      "seasons": 4,
+      "chapters": 76,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Circle Reborn",
+      "genre": "Sci-Fi",
+      "duration": 50,
+      "seasons": 5,
+      "chapters": 75,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Signal II",
+      "genre": "Thriller",
+      "duration": 42,
+      "seasons": 11,
+      "chapters": 99,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Burning Harbor Reborn",
+      "genre": "Comedy",
+      "duration": 55,
+      "seasons": 2,
+      "chapters": 24,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Crimson Horizon Chronicles",
+      "genre": "Superhero",
+      "duration": 22,
+      "seasons": 3,
+      "chapters": 54,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Dark Path Awakens",
+      "genre": "Crime",
+      "duration": 24,
+      "seasons": 10,
+      "chapters": 190,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Signal Rising",
+      "genre": "Adventure",
+      "duration": 55,
+      "seasons": 10,
+      "chapters": 70,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Vow Beyond",
+      "genre": "Horror",
+      "duration": 30,
+      "seasons": 5,
+      "chapters": 35,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Echoes Reborn",
+      "genre": "Adventure",
+      "duration": 45,
+      "seasons": 11,
+      "chapters": 242,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Kingdom",
+      "genre": "Drama",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 117,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Broken Garden III",
+      "genre": "Reality",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 24,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Horizon",
+      "genre": "Crime",
+      "duration": 42,
+      "seasons": 7,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Eternal Garden",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 2,
+      "chapters": 46,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Radiant Throne Beyond",
+      "genre": "Reality",
+      "duration": 42,
+      "seasons": 6,
+      "chapters": 84,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Empire",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 10,
+      "chapters": 60,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Echoes Awakens",
+      "genre": "Adventure",
+      "duration": 45,
+      "seasons": 2,
+      "chapters": 44,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Path",
+      "genre": "Superhero",
+      "duration": 45,
+      "seasons": 5,
+      "chapters": 115,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Eternal Frontier Beyond",
+      "genre": "Drama",
+      "duration": 60,
+      "seasons": 4,
+      "chapters": 64,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Eternal Throne II",
+      "genre": "Romance",
+      "duration": 45,
+      "seasons": 8,
+      "chapters": 72,
+      "rating": "TV-Y7",
+      "is_finished": false
+    },
+    {
+      "title": "Forgotten Empire Origins",
+      "genre": "Family",
+      "duration": 50,
+      "seasons": 11,
+      "chapters": 143,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Radiant Horizon Rebellion",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 14,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Broken Legacy",
+      "genre": "Animation",
+      "duration": 30,
+      "seasons": 2,
+      "chapters": 46,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Frontier Chronicles",
+      "genre": "Romance",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 36,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Throne III",
+      "genre": "Documentary",
+      "duration": 42,
+      "seasons": 5,
+      "chapters": 60,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Quiet Circle Origins",
+      "genre": "Superhero",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 27,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Crimson Path Legacy",
+      "genre": "Mystery",
+      "duration": 22,
+      "seasons": 10,
+      "chapters": 60,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Silent Legacy Reborn",
+      "genre": "Adventure",
+      "duration": 45,
+      "seasons": 8,
+      "chapters": 192,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Vow Rebellion",
+      "genre": "Adventure",
+      "duration": 42,
+      "seasons": 5,
+      "chapters": 90,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Signal Rising",
+      "genre": "Thriller",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 147,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Silent Vow Origins",
+      "genre": "Horror",
+      "duration": 60,
+      "seasons": 8,
+      "chapters": 72,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Flame Beyond",
+      "genre": "Animation",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Last Storm Legacy",
+      "genre": "Mystery",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 69,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Golden City Rebellion",
+      "genre": "Documentary",
+      "duration": 60,
+      "seasons": 6,
+      "chapters": 66,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Path Rebellion",
+      "genre": "Romance",
+      "duration": 45,
+      "seasons": 6,
+      "chapters": 108,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Wandering Shadows Chronicles",
+      "genre": "Horror",
+      "duration": 42,
+      "seasons": 2,
+      "chapters": 28,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Tide",
+      "genre": "Superhero",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 30,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Last City Beyond",
+      "genre": "Family",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 66,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Echoes",
+      "genre": "Horror",
+      "duration": 55,
+      "seasons": 10,
+      "chapters": 70,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Code",
+      "genre": "Documentary",
+      "duration": 24,
+      "seasons": 5,
+      "chapters": 105,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Tide Legacy",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 6,
+      "chapters": 138,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Path Rebellion",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 132,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Empire Reborn",
+      "genre": "Crime",
+      "duration": 60,
+      "seasons": 11,
+      "chapters": 242,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Radiant Path",
+      "genre": "Thriller",
+      "duration": 60,
+      "seasons": 7,
+      "chapters": 105,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Flame Legacy",
+      "genre": "Crime",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 176,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Quiet Frontier",
+      "genre": "Action",
+      "duration": 50,
+      "seasons": 2,
+      "chapters": 22,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Throne Reborn",
+      "genre": "Documentary",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Circle Beyond",
+      "genre": "Drama",
+      "duration": 60,
+      "seasons": 12,
+      "chapters": 288,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Wandering Circle",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 39,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Forgotten Echoes",
+      "genre": "Superhero",
+      "duration": 55,
+      "seasons": 4,
+      "chapters": 44,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Shadows Chronicles",
+      "genre": "Crime",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 63,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Echoes Chronicles",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 2,
+      "chapters": 28,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Forgotten Shadows",
+      "genre": "Sci-Fi",
+      "duration": 42,
+      "seasons": 5,
+      "chapters": 65,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Broken Echoes",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 3,
+      "chapters": 66,
+      "rating": "TV-Y",
+      "is_finished": false
+    },
+    {
+      "title": "Broken Garden",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 8,
+      "chapters": 160,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Wandering Echoes",
+      "genre": "Historical",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 72,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Radiant Harbor Origins",
+      "genre": "Romance",
+      "duration": 45,
+      "seasons": 9,
+      "chapters": 207,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Code Chronicles",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 2,
+      "chapters": 40,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Radiant Echoes Rebellion",
+      "genre": "Drama",
+      "duration": 30,
+      "seasons": 1,
+      "chapters": 6,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Radiant Frontier",
+      "genre": "Action",
+      "duration": 60,
+      "seasons": 12,
+      "chapters": 252,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Last Legacy Reborn",
+      "genre": "Family",
+      "duration": 22,
+      "seasons": 10,
+      "chapters": 130,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred City III",
+      "genre": "Reality",
+      "duration": 42,
+      "seasons": 7,
+      "chapters": 126,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred Circle Legacy",
+      "genre": "Adventure",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 91,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Garden Rebellion",
+      "genre": "Animation",
+      "duration": 45,
+      "seasons": 10,
+      "chapters": 140,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Last Echoes",
+      "genre": "Anime",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 84,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Endless Path Rising",
+      "genre": "Mystery",
+      "duration": 45,
+      "seasons": 10,
+      "chapters": 200,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Frontier",
+      "genre": "Fantasy",
+      "duration": 22,
+      "seasons": 1,
+      "chapters": 10,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Circle",
+      "genre": "Romance",
+      "duration": 30,
+      "seasons": 5,
+      "chapters": 70,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Hidden Circle Rebellion",
+      "genre": "Action",
+      "duration": 22,
+      "seasons": 2,
+      "chapters": 20,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Legacy",
+      "genre": "Crime",
+      "duration": 60,
+      "seasons": 8,
+      "chapters": 136,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Shadows",
+      "genre": "Superhero",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 21,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Signal III",
+      "genre": "Fantasy",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 36,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Radiant Tide",
+      "genre": "Comedy",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 156,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Kingdom",
+      "genre": "Superhero",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 80,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Shadows III",
+      "genre": "Family",
+      "duration": 50,
+      "seasons": 7,
+      "chapters": 105,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred Path Reborn",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 9,
+      "chapters": 81,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Radiant Empire",
+      "genre": "Drama",
+      "duration": 24,
+      "seasons": 1,
+      "chapters": 12,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Harbor",
+      "genre": "Comedy",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 42,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Path",
+      "genre": "Thriller",
+      "duration": 30,
+      "seasons": 10,
+      "chapters": 210,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Tide Origins",
+      "genre": "Comedy",
+      "duration": 50,
+      "seasons": 8,
+      "chapters": 64,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Wandering Signal",
+      "genre": "Sci-Fi",
+      "duration": 30,
+      "seasons": 1,
+      "chapters": 17,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Wandering Horizon Legacy",
+      "genre": "Documentary",
+      "duration": 50,
+      "seasons": 8,
+      "chapters": 104,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Dark Horizon Chronicles",
+      "genre": "Sci-Fi",
+      "duration": 22,
+      "seasons": 8,
+      "chapters": 96,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Echoes III",
+      "genre": "Family",
+      "duration": 60,
+      "seasons": 5,
+      "chapters": 35,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Last Code",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 252,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Realm",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 240,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Quiet Horizon III",
+      "genre": "Family",
+      "duration": 30,
+      "seasons": 3,
+      "chapters": 24,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Eternal Code Origins",
+      "genre": "Thriller",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 120,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Vow",
+      "genre": "Family",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 17,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Echoes",
+      "genre": "Action",
+      "duration": 60,
+      "seasons": 7,
+      "chapters": 84,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Empire Reborn",
+      "genre": "Crime",
+      "duration": 50,
+      "seasons": 6,
+      "chapters": 114,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Circle II",
+      "genre": "Superhero",
+      "duration": 30,
+      "seasons": 1,
+      "chapters": 10,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Shadows Rising",
+      "genre": "Superhero",
+      "duration": 22,
+      "seasons": 4,
+      "chapters": 36,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Quiet Code",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 9,
+      "chapters": 216,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Path",
+      "genre": "Anime",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 12,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Wandering Vow",
+      "genre": "Historical",
+      "duration": 50,
+      "seasons": 11,
+      "chapters": 77,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Burning Horizon Beyond",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 6,
+      "chapters": 42,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Forgotten City",
+      "genre": "Reality",
+      "duration": 24,
+      "seasons": 2,
+      "chapters": 24,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Circle Legacy",
+      "genre": "Family",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 48,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Storm Chronicles",
+      "genre": "Documentary",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 276,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Wandering Shadows Reborn",
+      "genre": "Thriller",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 220,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Storm Beyond",
+      "genre": "Anime",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 162,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Last Empire",
+      "genre": "Historical",
+      "duration": 50,
+      "seasons": 6,
+      "chapters": 96,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Last Legacy Awakens",
+      "genre": "Family",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 192,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Empire",
+      "genre": "Reality",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 168,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Realm",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 7,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Harbor Reborn",
+      "genre": "Animation",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 15,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Flame Rising",
+      "genre": "Sci-Fi",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 198,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Kingdom",
+      "genre": "Animation",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 42,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Vow",
+      "genre": "Crime",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 40,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Silent Garden Rebellion",
+      "genre": "Fantasy",
+      "duration": 60,
+      "seasons": 12,
+      "chapters": 192,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Vow",
+      "genre": "Crime",
+      "duration": 22,
+      "seasons": 10,
+      "chapters": 150,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Path Awakens",
+      "genre": "Fantasy",
+      "duration": 50,
+      "seasons": 1,
+      "chapters": 16,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Path",
+      "genre": "Mystery",
+      "duration": 55,
+      "seasons": 4,
+      "chapters": 24,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Last Horizon Beyond",
+      "genre": "Sci-Fi",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 216,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Path",
+      "genre": "Crime",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 18,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Code Origins",
+      "genre": "Mystery",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 76,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Broken Storm II",
+      "genre": "Reality",
+      "duration": 22,
+      "seasons": 2,
+      "chapters": 42,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Broken City",
+      "genre": "Horror",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 171,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Legacy II",
+      "genre": "Adventure",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 144,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Frontier Chronicles",
+      "genre": "Crime",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 52,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Echoes Legacy",
+      "genre": "Documentary",
+      "duration": 55,
+      "seasons": 2,
+      "chapters": 38,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Signal Beyond",
+      "genre": "Anime",
+      "duration": 45,
+      "seasons": 10,
+      "chapters": 60,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Shadows",
+      "genre": "Horror",
+      "duration": 60,
+      "seasons": 10,
+      "chapters": 100,
+      "rating": "TV-Y7",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Frontier Rebellion",
+      "genre": "Fantasy",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 187,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Forgotten Vow",
+      "genre": "Action",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 84,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Last Throne Legacy",
+      "genre": "Mystery",
+      "duration": 24,
+      "seasons": 1,
+      "chapters": 16,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Broken Tide",
+      "genre": "Animation",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 92,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Endless Circle II",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 189,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Silent Harbor III",
+      "genre": "Horror",
+      "duration": 22,
+      "seasons": 10,
+      "chapters": 220,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Vow Legacy",
+      "genre": "Crime",
+      "duration": 22,
+      "seasons": 12,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Hidden Vow II",
+      "genre": "Reality",
+      "duration": 50,
+      "seasons": 7,
+      "chapters": 98,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Wandering Throne Reborn",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 72,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Garden",
+      "genre": "Drama",
+      "duration": 42,
+      "seasons": 2,
+      "chapters": 22,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Last Vow",
+      "genre": "Thriller",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 13,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Vow",
+      "genre": "Adventure",
+      "duration": 50,
+      "seasons": 1,
+      "chapters": 17,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Last Realm III",
+      "genre": "Drama",
+      "duration": 45,
+      "seasons": 5,
+      "chapters": 35,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Burning Garden III",
+      "genre": "Sci-Fi",
+      "duration": 42,
+      "seasons": 9,
+      "chapters": 126,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Quiet Flame",
+      "genre": "Historical",
+      "duration": 42,
+      "seasons": 2,
+      "chapters": 36,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Code",
+      "genre": "Sci-Fi",
+      "duration": 60,
+      "seasons": 5,
+      "chapters": 80,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Kingdom Awakens",
+      "genre": "Adventure",
+      "duration": 42,
+      "seasons": 10,
+      "chapters": 230,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Shadows Origins",
+      "genre": "Thriller",
+      "duration": 30,
+      "seasons": 3,
+      "chapters": 57,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Harbor II",
+      "genre": "Sci-Fi",
+      "duration": 24,
+      "seasons": 6,
+      "chapters": 48,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred Horizon Reborn",
+      "genre": "Historical",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 72,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Realm II",
+      "genre": "Sci-Fi",
+      "duration": 45,
+      "seasons": 5,
+      "chapters": 100,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Last Storm Origins",
+      "genre": "Romance",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 18,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Distant Frontier II",
+      "genre": "Sci-Fi",
+      "duration": 50,
+      "seasons": 4,
+      "chapters": 24,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Storm Origins",
+      "genre": "Superhero",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 189,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Harbor III",
+      "genre": "Drama",
+      "duration": 42,
+      "seasons": 3,
+      "chapters": 33,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Signal Chronicles",
+      "genre": "Horror",
+      "duration": 42,
+      "seasons": 5,
+      "chapters": 95,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Eternal Storm III",
+      "genre": "Mystery",
+      "duration": 60,
+      "seasons": 2,
+      "chapters": 22,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Harbor III",
+      "genre": "Reality",
+      "duration": 55,
+      "seasons": 8,
+      "chapters": 104,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Realm Reborn",
+      "genre": "Family",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 192,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Circle Rising",
+      "genre": "Comedy",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 63,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered Harbor Origins",
+      "genre": "Reality",
+      "duration": 55,
+      "seasons": 4,
+      "chapters": 88,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Radiant Signal Reborn",
+      "genre": "Action",
+      "duration": 42,
+      "seasons": 9,
+      "chapters": 63,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Storm Origins",
+      "genre": "Comedy",
+      "duration": 30,
+      "seasons": 5,
+      "chapters": 100,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Quiet Garden",
+      "genre": "Crime",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 264,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Endless Empire",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 12,
+      "chapters": 264,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Broken Echoes Rising",
+      "genre": "Anime",
+      "duration": 55,
+      "seasons": 3,
+      "chapters": 54,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Quiet Horizon Rising",
+      "genre": "Thriller",
+      "duration": 60,
+      "seasons": 10,
+      "chapters": 120,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Code",
+      "genre": "Documentary",
+      "duration": 24,
+      "seasons": 12,
+      "chapters": 108,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Tide III",
+      "genre": "Thriller",
+      "duration": 55,
+      "seasons": 2,
+      "chapters": 44,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Forgotten Empire Reborn",
+      "genre": "Mystery",
+      "duration": 55,
+      "seasons": 7,
+      "chapters": 161,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Silent Legacy Rebellion",
+      "genre": "Comedy",
+      "duration": 30,
+      "seasons": 10,
+      "chapters": 100,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Echoes",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 105,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Echoes Beyond",
+      "genre": "Drama",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 121,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Last Circle",
+      "genre": "Family",
+      "duration": 22,
+      "seasons": 10,
+      "chapters": 140,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered Flame Origins",
+      "genre": "Anime",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 21,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Quiet Garden Rebellion",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 140,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Realm Legacy",
+      "genre": "Documentary",
+      "duration": 42,
+      "seasons": 5,
+      "chapters": 115,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Wandering Frontier Legacy",
+      "genre": "Action",
+      "duration": 22,
+      "seasons": 1,
+      "chapters": 10,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Circle Beyond",
+      "genre": "Thriller",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 48,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Dark Tide Rising",
+      "genre": "Documentary",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 165,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Crimson Echoes Legacy",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 8,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Forgotten Vow Rising",
+      "genre": "Animation",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 161,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Storm",
+      "genre": "Comedy",
+      "duration": 55,
+      "seasons": 6,
+      "chapters": 132,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Crimson Garden II",
+      "genre": "Action",
+      "duration": 24,
+      "seasons": 2,
+      "chapters": 48,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Horizon",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 112,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Echoes III",
+      "genre": "Superhero",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 72,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Harbor",
+      "genre": "Drama",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 39,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Frontier II",
+      "genre": "Historical",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 72,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Circle III",
+      "genre": "Drama",
+      "duration": 50,
+      "seasons": 1,
+      "chapters": 16,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Broken Harbor Legacy",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 11,
+      "chapters": 132,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Throne Beyond",
+      "genre": "Mystery",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 207,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Shadows Legacy",
+      "genre": "Mystery",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 108,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Throne Rising",
+      "genre": "Superhero",
+      "duration": 60,
+      "seasons": 11,
+      "chapters": 231,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Silent City",
+      "genre": "Comedy",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 60,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Frontier Origins",
+      "genre": "Mystery",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 135,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Realm Beyond",
+      "genre": "Reality",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 48,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Tide",
+      "genre": "Fantasy",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 253,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Frontier Rising",
+      "genre": "Romance",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 80,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Silent Throne II",
+      "genre": "Fantasy",
+      "duration": 45,
+      "seasons": 6,
+      "chapters": 120,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Signal Legacy",
+      "genre": "Drama",
+      "duration": 42,
+      "seasons": 6,
+      "chapters": 42,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Empire Chronicles",
+      "genre": "Adventure",
+      "duration": 30,
+      "seasons": 8,
+      "chapters": 176,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Shadows Beyond",
+      "genre": "Adventure",
+      "duration": 30,
+      "seasons": 5,
+      "chapters": 80,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Code Chronicles",
+      "genre": "Adventure",
+      "duration": 42,
+      "seasons": 11,
+      "chapters": 110,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Silent Horizon Reborn",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 2,
+      "chapters": 12,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred Empire Legacy",
+      "genre": "Action",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 120,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered Signal",
+      "genre": "Horror",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 24,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Throne II",
+      "genre": "Fantasy",
+      "duration": 45,
+      "seasons": 4,
+      "chapters": 60,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Throne",
+      "genre": "Family",
+      "duration": 30,
+      "seasons": 5,
+      "chapters": 50,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Vow Legacy",
+      "genre": "Animation",
+      "duration": 42,
+      "seasons": 9,
+      "chapters": 81,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Tide",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 3,
+      "chapters": 45,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Kingdom II",
+      "genre": "Comedy",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 180,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Horizon Rebellion",
+      "genre": "Anime",
+      "duration": 22,
+      "seasons": 2,
+      "chapters": 36,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Broken Shadows",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 10,
+      "chapters": 170,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Endless Shadows Chronicles",
+      "genre": "Anime",
+      "duration": 30,
+      "seasons": 2,
+      "chapters": 40,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Echoes",
+      "genre": "Anime",
+      "duration": 45,
+      "seasons": 2,
+      "chapters": 40,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Radiant Legacy Chronicles",
+      "genre": "Animation",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 104,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Endless Circle Awakens",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 108,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Crimson City",
+      "genre": "Superhero",
+      "duration": 22,
+      "seasons": 8,
+      "chapters": 168,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Quiet Realm Awakens",
+      "genre": "Sci-Fi",
+      "duration": 45,
+      "seasons": 8,
+      "chapters": 88,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Last Signal",
+      "genre": "Mystery",
+      "duration": 55,
+      "seasons": 9,
+      "chapters": 81,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Distant Code Reborn",
+      "genre": "Historical",
+      "duration": 45,
+      "seasons": 9,
+      "chapters": 72,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Throne Awakens",
+      "genre": "Mystery",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 52,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Endless Horizon Chronicles",
+      "genre": "Mystery",
+      "duration": 55,
+      "seasons": 4,
+      "chapters": 96,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Legacy Awakens",
+      "genre": "Superhero",
+      "duration": 30,
+      "seasons": 9,
+      "chapters": 117,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Realm Rebellion",
+      "genre": "Anime",
+      "duration": 60,
+      "seasons": 2,
+      "chapters": 48,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Last Code Rebellion",
+      "genre": "Reality",
+      "duration": 55,
+      "seasons": 3,
+      "chapters": 45,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Broken City Origins",
+      "genre": "Drama",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 126,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred City",
+      "genre": "Anime",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 30,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Wandering Garden",
+      "genre": "Action",
+      "duration": 50,
+      "seasons": 4,
+      "chapters": 48,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred Tide",
+      "genre": "Adventure",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 119,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred City Reborn",
+      "genre": "Comedy",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 70,
+      "rating": "TV-Y7",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered Empire III",
+      "genre": "Drama",
+      "duration": 50,
+      "seasons": 1,
+      "chapters": 23,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Flame Reborn",
+      "genre": "Reality",
+      "duration": 55,
+      "seasons": 4,
+      "chapters": 76,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Crimson Realm Rebellion",
+      "genre": "Horror",
+      "duration": 42,
+      "seasons": 7,
+      "chapters": 133,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Tide Rising",
+      "genre": "Sci-Fi",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 162,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Echoes Legacy",
+      "genre": "Superhero",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 18,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Vow Beyond",
+      "genre": "Historical",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 209,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered Echoes Rebellion",
+      "genre": "Anime",
+      "duration": 30,
+      "seasons": 8,
+      "chapters": 152,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Code Chronicles",
+      "genre": "Superhero",
+      "duration": 42,
+      "seasons": 7,
+      "chapters": 119,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Garden",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 156,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Radiant Garden",
+      "genre": "Superhero",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 7,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Radiant Harbor II",
+      "genre": "Animation",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 96,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Garden",
+      "genre": "Romance",
+      "duration": 24,
+      "seasons": 8,
+      "chapters": 176,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Quiet Vow Origins",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 8,
+      "chapters": 64,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Silent Flame",
+      "genre": "Mystery",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 21,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Echoes Awakens",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 119,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Tide Origins",
+      "genre": "Thriller",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 288,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Tide Reborn",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 10,
+      "chapters": 70,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Radiant Circle Rebellion",
+      "genre": "Animation",
+      "duration": 30,
+      "seasons": 8,
+      "chapters": 64,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Silent Horizon",
+      "genre": "Fantasy",
+      "duration": 45,
+      "seasons": 5,
+      "chapters": 50,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Throne Awakens",
+      "genre": "Thriller",
+      "duration": 30,
+      "seasons": 10,
+      "chapters": 110,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Storm Reborn",
+      "genre": "Comedy",
+      "duration": 60,
+      "seasons": 5,
+      "chapters": 65,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal City Rising",
+      "genre": "Superhero",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 48,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Flame II",
+      "genre": "Thriller",
+      "duration": 42,
+      "seasons": 7,
+      "chapters": 126,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred Path II",
+      "genre": "Fantasy",
+      "duration": 50,
+      "seasons": 4,
+      "chapters": 96,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Circle",
+      "genre": "Family",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 11,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Vow",
+      "genre": "Historical",
+      "duration": 55,
+      "seasons": 4,
+      "chapters": 72,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Last Harbor II",
+      "genre": "Adventure",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 15,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Last Path Rebellion",
+      "genre": "Historical",
+      "duration": 24,
+      "seasons": 11,
+      "chapters": 77,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Dark Harbor",
+      "genre": "Animation",
+      "duration": 50,
+      "seasons": 10,
+      "chapters": 140,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Radiant Vow Awakens",
+      "genre": "Romance",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 264,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Eternal Flame Chronicles",
+      "genre": "Thriller",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 288,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Distant Legacy Legacy",
+      "genre": "Drama",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 138,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Endless Storm",
+      "genre": "Action",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 63,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Signal",
+      "genre": "Horror",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 60,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Silent Path",
+      "genre": "Reality",
+      "duration": 24,
+      "seasons": 10,
+      "chapters": 90,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Storm Awakens",
+      "genre": "Animation",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 264,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Tide",
+      "genre": "Animation",
+      "duration": 24,
+      "seasons": 5,
+      "chapters": 100,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Silent Code",
+      "genre": "Comedy",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 112,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Radiant Tide Rising",
+      "genre": "Animation",
+      "duration": 50,
+      "seasons": 7,
+      "chapters": 126,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Signal",
+      "genre": "Reality",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 60,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Crimson Tide",
+      "genre": "Horror",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 63,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Hidden Throne Rising",
+      "genre": "Crime",
+      "duration": 60,
+      "seasons": 10,
+      "chapters": 90,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Code Reborn",
+      "genre": "Superhero",
+      "duration": 45,
+      "seasons": 2,
+      "chapters": 48,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Broken Empire",
+      "genre": "Mystery",
+      "duration": 22,
+      "seasons": 3,
+      "chapters": 18,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Storm",
+      "genre": "Superhero",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Forgotten Legacy Origins",
+      "genre": "Crime",
+      "duration": 55,
+      "seasons": 8,
+      "chapters": 152,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred Realm Chronicles",
+      "genre": "Superhero",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 117,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Quiet Echoes Rebellion",
+      "genre": "Comedy",
+      "duration": 50,
+      "seasons": 2,
+      "chapters": 48,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Wandering Throne Rising",
+      "genre": "Crime",
+      "duration": 50,
+      "seasons": 11,
+      "chapters": 88,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered Storm Legacy",
+      "genre": "Reality",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 120,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Frontier",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 11,
+      "chapters": 132,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Quiet Legacy Rebellion",
+      "genre": "Horror",
+      "duration": 60,
+      "seasons": 8,
+      "chapters": 64,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Endless Harbor",
+      "genre": "Family",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 24,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Signal",
+      "genre": "Anime",
+      "duration": 60,
+      "seasons": 11,
+      "chapters": 165,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Dark Path",
+      "genre": "Comedy",
+      "duration": 50,
+      "seasons": 1,
+      "chapters": 7,
+      "rating": "TV-Y7",
+      "is_finished": false
+    },
+    {
+      "title": "Dark Shadows III",
+      "genre": "Anime",
+      "duration": 42,
+      "seasons": 7,
+      "chapters": 63,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered Realm Rising",
+      "genre": "Crime",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 253,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Kingdom",
+      "genre": "Comedy",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 10,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Storm Awakens",
+      "genre": "Action",
+      "duration": 22,
+      "seasons": 4,
+      "chapters": 40,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Horizon Reborn",
+      "genre": "Fantasy",
+      "duration": 30,
+      "seasons": 2,
+      "chapters": 40,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Vow Rebellion",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 2,
+      "chapters": 42,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Harbor III",
+      "genre": "Family",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 216,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Last Path",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 3,
+      "chapters": 48,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Vow Legacy",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 2,
+      "chapters": 18,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Horizon",
+      "genre": "Sci-Fi",
+      "duration": 60,
+      "seasons": 9,
+      "chapters": 99,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Storm Chronicles",
+      "genre": "Drama",
+      "duration": 30,
+      "seasons": 2,
+      "chapters": 36,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Storm Rising",
+      "genre": "Action",
+      "duration": 24,
+      "seasons": 1,
+      "chapters": 11,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Last Circle Awakens",
+      "genre": "Adventure",
+      "duration": 30,
+      "seasons": 7,
+      "chapters": 147,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Distant Throne",
+      "genre": "Comedy",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 152,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Wandering Path Rising",
+      "genre": "Action",
+      "duration": 60,
+      "seasons": 10,
+      "chapters": 110,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Horizon Chronicles",
+      "genre": "Adventure",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 114,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Broken Frontier Awakens",
+      "genre": "Horror",
+      "duration": 42,
+      "seasons": 2,
+      "chapters": 34,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Realm",
+      "genre": "Superhero",
+      "duration": 42,
+      "seasons": 5,
+      "chapters": 35,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Code",
+      "genre": "Documentary",
+      "duration": 30,
+      "seasons": 8,
+      "chapters": 88,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Code",
+      "genre": "Anime",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 60,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Dark Tide Origins",
+      "genre": "Drama",
+      "duration": 22,
+      "seasons": 1,
+      "chapters": 9,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Vow",
+      "genre": "Anime",
+      "duration": 24,
+      "seasons": 8,
+      "chapters": 176,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Frontier Reborn",
+      "genre": "Mystery",
+      "duration": 50,
+      "seasons": 10,
+      "chapters": 240,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Radiant Horizon Rising",
+      "genre": "Historical",
+      "duration": 50,
+      "seasons": 4,
+      "chapters": 36,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Frontier II",
+      "genre": "Comedy",
+      "duration": 42,
+      "seasons": 4,
+      "chapters": 72,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Legacy Legacy",
+      "genre": "Reality",
+      "duration": 42,
+      "seasons": 7,
+      "chapters": 70,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Garden III",
+      "genre": "Animation",
+      "duration": 60,
+      "seasons": 6,
+      "chapters": 60,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Radiant Storm Reborn",
+      "genre": "Animation",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 64,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Path",
+      "genre": "Mystery",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 27,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Horizon II",
+      "genre": "Thriller",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 60,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Flame Legacy",
+      "genre": "Superhero",
+      "duration": 42,
+      "seasons": 10,
+      "chapters": 230,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Silent Path Rising",
+      "genre": "Historical",
+      "duration": 60,
+      "seasons": 4,
+      "chapters": 96,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Wandering City Chronicles",
+      "genre": "Sci-Fi",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 156,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Broken Harbor",
+      "genre": "Superhero",
+      "duration": 55,
+      "seasons": 10,
+      "chapters": 60,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Empire Beyond",
+      "genre": "Fantasy",
+      "duration": 22,
+      "seasons": 12,
+      "chapters": 264,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Circle Beyond",
+      "genre": "Historical",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 168,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Radiant Legacy",
+      "genre": "Crime",
+      "duration": 50,
+      "seasons": 4,
+      "chapters": 40,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Quiet Echoes Awakens",
+      "genre": "Drama",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 21,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Storm Origins",
+      "genre": "Documentary",
+      "duration": 30,
+      "seasons": 8,
+      "chapters": 160,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Silent Path III",
+      "genre": "Mystery",
+      "duration": 22,
+      "seasons": 11,
+      "chapters": 220,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Echoes Legacy",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 9,
+      "chapters": 63,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Tide Beyond",
+      "genre": "Comedy",
+      "duration": 24,
+      "seasons": 10,
+      "chapters": 120,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Flame Awakens",
+      "genre": "Comedy",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 153,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Frontier Legacy",
+      "genre": "Family",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 102,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered Path",
+      "genre": "Fantasy",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 144,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Harbor Beyond",
+      "genre": "Mystery",
+      "duration": 42,
+      "seasons": 11,
+      "chapters": 231,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Quiet Flame Awakens",
+      "genre": "Documentary",
+      "duration": 55,
+      "seasons": 6,
+      "chapters": 84,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Garden Beyond",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 8,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Wandering Vow Legacy",
+      "genre": "Crime",
+      "duration": 50,
+      "seasons": 5,
+      "chapters": 100,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Silent Storm Awakens",
+      "genre": "Action",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 80,
+      "rating": "TV-G",
+      "is_finished": false
+    },
+    {
+      "title": "Distant Code Chronicles",
+      "genre": "Superhero",
+      "duration": 30,
+      "seasons": 2,
+      "chapters": 18,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Radiant Empire Rising",
+      "genre": "Family",
+      "duration": 22,
+      "seasons": 3,
+      "chapters": 36,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Tide II",
+      "genre": "Drama",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 63,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Path Rebellion",
+      "genre": "Adventure",
+      "duration": 24,
+      "seasons": 5,
+      "chapters": 60,
+      "rating": "TV-Y",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Throne Rising",
+      "genre": "Mystery",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 176,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Harbor Awakens",
+      "genre": "Action",
+      "duration": 60,
+      "seasons": 8,
+      "chapters": 192,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Code III",
+      "genre": "Comedy",
+      "duration": 42,
+      "seasons": 3,
+      "chapters": 42,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Forgotten Frontier",
+      "genre": "Thriller",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 51,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Tide Awakens",
+      "genre": "Sci-Fi",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 276,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Throne Reborn",
+      "genre": "Sci-Fi",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 39,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Flame Chronicles",
+      "genre": "Comedy",
+      "duration": 50,
+      "seasons": 8,
+      "chapters": 112,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Legacy Origins",
+      "genre": "Thriller",
+      "duration": 50,
+      "seasons": 11,
+      "chapters": 176,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Shadows Awakens",
+      "genre": "Superhero",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 135,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Frontier Legacy",
+      "genre": "Family",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 60,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Horizon Rising",
+      "genre": "Sci-Fi",
+      "duration": 45,
+      "seasons": 9,
+      "chapters": 144,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Garden Chronicles",
+      "genre": "Comedy",
+      "duration": 50,
+      "seasons": 10,
+      "chapters": 200,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Horizon Legacy",
+      "genre": "Romance",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 69,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Path III",
+      "genre": "Horror",
+      "duration": 24,
+      "seasons": 8,
+      "chapters": 136,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Tide Legacy",
+      "genre": "Horror",
+      "duration": 42,
+      "seasons": 10,
+      "chapters": 220,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Kingdom Chronicles",
+      "genre": "Adventure",
+      "duration": 60,
+      "seasons": 1,
+      "chapters": 8,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Hidden Echoes Reborn",
+      "genre": "Comedy",
+      "duration": 60,
+      "seasons": 7,
+      "chapters": 84,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Distant Echoes Awakens",
+      "genre": "Documentary",
+      "duration": 55,
+      "seasons": 11,
+      "chapters": 187,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Hidden Frontier",
+      "genre": "Anime",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 119,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Shadows",
+      "genre": "Historical",
+      "duration": 42,
+      "seasons": 9,
+      "chapters": 72,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Burning City III",
+      "genre": "Historical",
+      "duration": 30,
+      "seasons": 8,
+      "chapters": 120,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Echoes Origins",
+      "genre": "Sci-Fi",
+      "duration": 30,
+      "seasons": 12,
+      "chapters": 228,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Code Reborn",
+      "genre": "Mystery",
+      "duration": 60,
+      "seasons": 4,
+      "chapters": 60,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Signal",
+      "genre": "Animation",
+      "duration": 55,
+      "seasons": 2,
+      "chapters": 48,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Realm Legacy",
+      "genre": "Sci-Fi",
+      "duration": 60,
+      "seasons": 7,
+      "chapters": 77,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Realm Reborn",
+      "genre": "Action",
+      "duration": 55,
+      "seasons": 4,
+      "chapters": 44,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Tide Beyond",
+      "genre": "Drama",
+      "duration": 60,
+      "seasons": 10,
+      "chapters": 150,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Empire",
+      "genre": "Superhero",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 10,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered Vow Rising",
+      "genre": "Romance",
+      "duration": 55,
+      "seasons": 2,
+      "chapters": 30,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Crimson Shadows Beyond",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 9,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered Storm Reborn",
+      "genre": "Superhero",
+      "duration": 55,
+      "seasons": 10,
+      "chapters": 210,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Signal",
+      "genre": "Animation",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 108,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered City Chronicles",
+      "genre": "Sci-Fi",
+      "duration": 22,
+      "seasons": 3,
+      "chapters": 72,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Frontier Awakens",
+      "genre": "Documentary",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 66,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Circle Legacy",
+      "genre": "Adventure",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 15,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Code II",
+      "genre": "Mystery",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 44,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Storm Awakens",
+      "genre": "Fantasy",
+      "duration": 45,
+      "seasons": 6,
+      "chapters": 90,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Distant Shadows Legacy",
+      "genre": "Adventure",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 216,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Vow",
+      "genre": "Thriller",
+      "duration": 60,
+      "seasons": 5,
+      "chapters": 85,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Eternal Kingdom Beyond",
+      "genre": "Family",
+      "duration": 30,
+      "seasons": 2,
+      "chapters": 24,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Quiet Tide Legacy",
+      "genre": "Fantasy",
+      "duration": 24,
+      "seasons": 10,
+      "chapters": 220,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Distant Echoes Chronicles",
+      "genre": "Sci-Fi",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 18,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Burning Echoes Reborn",
+      "genre": "Fantasy",
+      "duration": 50,
+      "seasons": 8,
+      "chapters": 176,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Endless Realm",
+      "genre": "Horror",
+      "duration": 30,
+      "seasons": 4,
+      "chapters": 40,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Legacy Beyond",
+      "genre": "Crime",
+      "duration": 55,
+      "seasons": 3,
+      "chapters": 24,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Broken Storm Rebellion",
+      "genre": "Adventure",
+      "duration": 55,
+      "seasons": 1,
+      "chapters": 21,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Kingdom Chronicles",
+      "genre": "Crime",
+      "duration": 60,
+      "seasons": 10,
+      "chapters": 70,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Empire",
+      "genre": "Horror",
+      "duration": 24,
+      "seasons": 5,
+      "chapters": 30,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Distant Garden Awakens",
+      "genre": "Sci-Fi",
+      "duration": 30,
+      "seasons": 10,
+      "chapters": 120,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Signal",
+      "genre": "Romance",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Path Beyond",
+      "genre": "Drama",
+      "duration": 24,
+      "seasons": 9,
+      "chapters": 216,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Flame Origins",
+      "genre": "Family",
+      "duration": 42,
+      "seasons": 9,
+      "chapters": 108,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Signal",
+      "genre": "Superhero",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 9,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Radiant Storm Awakens",
+      "genre": "Thriller",
+      "duration": 30,
+      "seasons": 6,
+      "chapters": 144,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Legacy Rising",
+      "genre": "Fantasy",
+      "duration": 55,
+      "seasons": 6,
+      "chapters": 108,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Empire Rebellion",
+      "genre": "Documentary",
+      "duration": 60,
+      "seasons": 6,
+      "chapters": 54,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Throne Legacy",
+      "genre": "Reality",
+      "duration": 22,
+      "seasons": 12,
+      "chapters": 180,
+      "rating": "TV-G",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted City",
+      "genre": "Romance",
+      "duration": 45,
+      "seasons": 5,
+      "chapters": 100,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Shadows",
+      "genre": "Crime",
+      "duration": 45,
+      "seasons": 9,
+      "chapters": 171,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Legacy Rising",
+      "genre": "Fantasy",
+      "duration": 30,
+      "seasons": 8,
+      "chapters": 136,
+      "rating": "TV-Y",
+      "is_finished": false
+    },
+    {
+      "title": "Burning Vow Chronicles",
+      "genre": "Fantasy",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 140,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Lost City",
+      "genre": "Horror",
+      "duration": 24,
+      "seasons": 12,
+      "chapters": 132,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Quiet Path II",
+      "genre": "Superhero",
+      "duration": 24,
+      "seasons": 10,
+      "chapters": 180,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Quiet Echoes Reborn",
+      "genre": "Reality",
+      "duration": 45,
+      "seasons": 5,
+      "chapters": 120,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Hidden Circle Beyond",
+      "genre": "Sci-Fi",
+      "duration": 55,
+      "seasons": 6,
+      "chapters": 126,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Frontier",
+      "genre": "Sci-Fi",
+      "duration": 24,
+      "seasons": 8,
+      "chapters": 72,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Kingdom",
+      "genre": "Drama",
+      "duration": 22,
+      "seasons": 1,
+      "chapters": 9,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Distant Tide",
+      "genre": "Fantasy",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 54,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Last Echoes Beyond",
+      "genre": "Superhero",
+      "duration": 60,
+      "seasons": 2,
+      "chapters": 44,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Empire III",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 8,
+      "chapters": 176,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered City Reborn",
+      "genre": "Fantasy",
+      "duration": 22,
+      "seasons": 9,
+      "chapters": 54,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Golden Frontier Reborn",
+      "genre": "Comedy",
+      "duration": 50,
+      "seasons": 7,
+      "chapters": 140,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Last Tide Chronicles",
+      "genre": "Historical",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 11,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Harbor Rising",
+      "genre": "Superhero",
+      "duration": 55,
+      "seasons": 3,
+      "chapters": 45,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Echoes Legacy",
+      "genre": "Adventure",
+      "duration": 60,
+      "seasons": 11,
+      "chapters": 253,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Burning Legacy Reborn",
+      "genre": "Documentary",
+      "duration": 45,
+      "seasons": 1,
+      "chapters": 18,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Burning Path Beyond",
+      "genre": "Documentary",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 80,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Kingdom III",
+      "genre": "Reality",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 144,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Crimson Harbor",
+      "genre": "Comedy",
+      "duration": 50,
+      "seasons": 2,
+      "chapters": 38,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Code",
+      "genre": "Crime",
+      "duration": 42,
+      "seasons": 11,
+      "chapters": 143,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Harbor Legacy",
+      "genre": "Family",
+      "duration": 45,
+      "seasons": 12,
+      "chapters": 96,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Garden Rebellion",
+      "genre": "Adventure",
+      "duration": 60,
+      "seasons": 6,
+      "chapters": 42,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Golden Realm",
+      "genre": "Mystery",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 98,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Empire",
+      "genre": "Superhero",
+      "duration": 55,
+      "seasons": 7,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Legacy Reborn",
+      "genre": "Mystery",
+      "duration": 50,
+      "seasons": 2,
+      "chapters": 24,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Silent Empire",
+      "genre": "Crime",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 45,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Echoes Chronicles",
+      "genre": "Reality",
+      "duration": 45,
+      "seasons": 9,
+      "chapters": 108,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Shadows",
+      "genre": "Adventure",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 32,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Flame",
+      "genre": "Action",
+      "duration": 42,
+      "seasons": 8,
+      "chapters": 152,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Tide Rising",
+      "genre": "Historical",
+      "duration": 55,
+      "seasons": 9,
+      "chapters": 135,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Flame Chronicles",
+      "genre": "Drama",
+      "duration": 60,
+      "seasons": 7,
+      "chapters": 98,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Last Circle Origins",
+      "genre": "Anime",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 242,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Realm",
+      "genre": "Comedy",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 115,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Wandering Storm Rising",
+      "genre": "Action",
+      "duration": 50,
+      "seasons": 9,
+      "chapters": 108,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Silent Kingdom Rising",
+      "genre": "Horror",
+      "duration": 50,
+      "seasons": 7,
+      "chapters": 133,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Lost Frontier Reborn",
+      "genre": "Romance",
+      "duration": 45,
+      "seasons": 7,
+      "chapters": 98,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Last Tide Awakens",
+      "genre": "Action",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 91,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Horizon Beyond",
+      "genre": "Horror",
+      "duration": 55,
+      "seasons": 8,
+      "chapters": 168,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Hidden Garden Chronicles",
+      "genre": "Animation",
+      "duration": 30,
+      "seasons": 3,
+      "chapters": 42,
+      "rating": "TV-Y",
+      "is_finished": false
+    },
+    {
+      "title": "Crimson Realm Reborn",
+      "genre": "Superhero",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 253,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Path Awakens",
+      "genre": "Crime",
+      "duration": 24,
+      "seasons": 1,
+      "chapters": 7,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Frozen Throne Chronicles",
+      "genre": "Sci-Fi",
+      "duration": 24,
+      "seasons": 7,
+      "chapters": 119,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Wandering Realm III",
+      "genre": "Adventure",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 36,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Last Legacy Legacy",
+      "genre": "Mystery",
+      "duration": 24,
+      "seasons": 5,
+      "chapters": 105,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Twisted Harbor III",
+      "genre": "Historical",
+      "duration": 55,
+      "seasons": 6,
+      "chapters": 144,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Shattered Echoes III",
+      "genre": "Anime",
+      "duration": 24,
+      "seasons": 4,
+      "chapters": 40,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Circle III",
+      "genre": "Fantasy",
+      "duration": 22,
+      "seasons": 7,
+      "chapters": 98,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Legacy II",
+      "genre": "Animation",
+      "duration": 55,
+      "seasons": 6,
+      "chapters": 138,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Garden Reborn",
+      "genre": "Drama",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 51,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Radiant Horizon",
+      "genre": "Romance",
+      "duration": 22,
+      "seasons": 11,
+      "chapters": 77,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Hidden Horizon III",
+      "genre": "Documentary",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 115,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Last City Rebellion",
+      "genre": "Reality",
+      "duration": 42,
+      "seasons": 11,
+      "chapters": 99,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Eternal Path Origins",
+      "genre": "Action",
+      "duration": 24,
+      "seasons": 5,
+      "chapters": 75,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Legacy III",
+      "genre": "Historical",
+      "duration": 60,
+      "seasons": 4,
+      "chapters": 44,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Burning Frontier Legacy",
+      "genre": "Superhero",
+      "duration": 24,
+      "seasons": 1,
+      "chapters": 14,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Broken Storm Chronicles",
+      "genre": "Fantasy",
+      "duration": 50,
+      "seasons": 12,
+      "chapters": 228,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Distant City",
+      "genre": "Family",
+      "duration": 24,
+      "seasons": 3,
+      "chapters": 42,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Eternal Flame",
+      "genre": "Thriller",
+      "duration": 60,
+      "seasons": 12,
+      "chapters": 192,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Last City Legacy",
+      "genre": "Action",
+      "duration": 30,
+      "seasons": 11,
+      "chapters": 220,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Sacred Path Rebellion",
+      "genre": "Sci-Fi",
+      "duration": 24,
+      "seasons": 6,
+      "chapters": 144,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Quiet Realm Reborn",
+      "genre": "Sci-Fi",
+      "duration": 50,
+      "seasons": 10,
+      "chapters": 190,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Twisted Shadows Chronicles",
+      "genre": "Historical",
+      "duration": 50,
+      "seasons": 5,
+      "chapters": 55,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Crimson Shadows",
+      "genre": "Romance",
+      "duration": 55,
+      "seasons": 6,
+      "chapters": 66,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Crimson Storm Beyond",
+      "genre": "Horror",
+      "duration": 42,
+      "seasons": 1,
+      "chapters": 6,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen City",
+      "genre": "Animation",
+      "duration": 22,
+      "seasons": 5,
+      "chapters": 55,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Dark Empire Chronicles",
+      "genre": "Drama",
+      "duration": 50,
+      "seasons": 3,
+      "chapters": 24,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Lost Horizon",
+      "genre": "Superhero",
+      "duration": 55,
+      "seasons": 12,
+      "chapters": 264,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Silent Horizon Awakens",
+      "genre": "Animation",
+      "duration": 42,
+      "seasons": 2,
+      "chapters": 26,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Wandering Harbor III",
+      "genre": "Horror",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 105,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred Circle II",
+      "genre": "Drama",
+      "duration": 55,
+      "seasons": 5,
+      "chapters": 60,
+      "rating": "TV-PG",
+      "is_finished": false
+    },
+    {
+      "title": "Dark City",
+      "genre": "Documentary",
+      "duration": 42,
+      "seasons": 5,
+      "chapters": 70,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Frozen Code Chronicles",
+      "genre": "Mystery",
+      "duration": 24,
+      "seasons": 10,
+      "chapters": 200,
+      "rating": "TV-Y",
+      "is_finished": true
+    },
+    {
+      "title": "Hidden Kingdom",
+      "genre": "Animation",
+      "duration": 42,
+      "seasons": 12,
+      "chapters": 216,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Dark Realm",
+      "genre": "Superhero",
+      "duration": 22,
+      "seasons": 2,
+      "chapters": 18,
+      "rating": "TV-Y7",
+      "is_finished": false
+    },
+    {
+      "title": "Hidden Vow Rising",
+      "genre": "Action",
+      "duration": 22,
+      "seasons": 6,
+      "chapters": 42,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Sacred Tide Chronicles",
+      "genre": "Thriller",
+      "duration": 30,
+      "seasons": 7,
+      "chapters": 119,
+      "rating": "TV-MA",
+      "is_finished": true
+    },
+    {
+      "title": "Shattered Frontier",
+      "genre": "Sci-Fi",
+      "duration": 60,
+      "seasons": 5,
+      "chapters": 55,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Endless Flame",
+      "genre": "Comedy",
+      "duration": 55,
+      "seasons": 2,
+      "chapters": 32,
+      "rating": "TV-PG",
+      "is_finished": true
+    },
+    {
+      "title": "Burning Frontier",
+      "genre": "Action",
+      "duration": 45,
+      "seasons": 3,
+      "chapters": 63,
+      "rating": "TV-MA",
+      "is_finished": false
+    },
+    {
+      "title": "Distant Code Rising",
+      "genre": "Superhero",
+      "duration": 50,
+      "seasons": 5,
+      "chapters": 70,
+      "rating": "TV-14",
+      "is_finished": true
+    },
+    {
+      "title": "Wandering Storm",
+      "genre": "Romance",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 69,
+      "rating": "TV-Y7",
+      "is_finished": true
+    },
+    {
+      "title": "Forgotten Throne Chronicles",
+      "genre": "Historical",
+      "duration": 60,
+      "seasons": 3,
+      "chapters": 21,
+      "rating": "TV-14",
+      "is_finished": false
+    },
+    {
+      "title": "Distant Harbor Rebellion",
+      "genre": "Family",
+      "duration": 22,
+      "seasons": 2,
+      "chapters": 42,
+      "rating": "TV-14",
+      "is_finished": false
+    }
+  ]
+}
