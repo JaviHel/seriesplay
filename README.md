@@ -5,7 +5,7 @@ Esta aplicacion esta pensada para **personas con poco tiempo**
 ## Instrucciones de ejecucion
 
 1. Abrir la terminal en la carpeta del proyecto
-2. Ejecutar el archivo principal con el siguiente comando:
+2. Ejecutar el archivo principal en la carpeta ui con el siguiente comando:
 ```bash
 python terminal.py
 ```
