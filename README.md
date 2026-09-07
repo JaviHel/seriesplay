@@ -7,7 +7,7 @@ Esta aplicacion esta pensada para **personas con poco tiempo**
 1. Abrir la terminal en la carpeta del proyecto
 2. Ejecutar el archivo principal con el siguiente comando:
 ```bash
-python main.py
+python terminal.py
 ```
 ---
 ## integrantes
