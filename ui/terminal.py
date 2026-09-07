@@ -141,7 +141,6 @@ def exit():
 
 
 
-print(random_recommendation())
 
 
 def main():
