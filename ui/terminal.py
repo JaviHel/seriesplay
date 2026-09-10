@@ -206,6 +206,7 @@ def select_option(user_input, method_call_lst):
 
 
 
+
 def main():
     # Variables de los titulos y opciones de cada pantalla
     MESSAGE_1 = "SELECCIONE UNA OPCION DEL MENU: "    
